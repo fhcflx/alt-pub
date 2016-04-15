@@ -18,7 +18,7 @@ Alternativas que não envolvem dilemas financeiros ou obstáculos à divulgaçã
 
 ## Minhas publicações da Via Verde
 
-# Pôsteres publicados em repositórios acadêmicos:
+### Pôsteres publicados em repositórios acadêmicos:
 
 Magalhaes R, Felix J, Albuquerque J et al. Evaluation of the analgesic effect of venlafaxine, a serotonin and noradrenaline reuptake inhibitor [v1; not peer reviewed]. F1000Research 2015, 4:1259 (poster) (doi: 10.7490/f1000research.1110985.1)
 
