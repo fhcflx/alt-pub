@@ -60,3 +60,26 @@ Felix F, Albuquerque J and Fontenele J. Survival analysis ​of pediatric patien
 
 Felix F, Veras I, Nogueira C et al. Seizure prophylaxis with valproic acid in pediatric patients with brain tumors [v1; not peer reviewed]. F1000Research 2015, 4:1210 (poster) [doi: 10.7490/f1000research.1110938.1]
 
+### Pré-publicações:
+
+Sales M, Figueiredo KS, Fontenele JB, Viana GS, Felix FH. (2015) Sibutramine antinociceptive effect in female rodents is not dependent on catecholaminergic signaling. PeerJ PrePrints 3:e1544v2 https://doi.org/10.7287/peerj.preprints.1544v2
+
+Figueiredo KS, Sales ML, Fontenele JB, Viana GS, Felix FH. (2015) Valproate antinociceptive and anti-inflammatory effect in female rodents. PeerJ PrePrints 3:e1613v1 https://doi.org/10.7287/peerj.preprints.1613v1
+
+### Apresentações acadêmicas (diapositivos):
+
+Felix, Francisco (2015): Clinical treatment of malignant brain tumors in pediatric patients. figshare.
+https://dx.doi.org/10.6084/m9.figshare.2007588.v1
+
+<iframe src="https://widgets.figshare.com/articles/2007588/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
+
+Felix, Francisco (2015): Clinical treatment of low-grade gliomas in pediatric patients. figshare.
+https://dx.doi.org/10.6084/m9.figshare.2007543.v1
+
+<iframe src="https://widgets.figshare.com/articles/2007543/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
+
+### Resumos publicados em anais de congressos e depositados em repositórios:
+
+Felix, Francisco (2016): Wilms tumor with cardiac extension - case report. [portuguese]. figshare.
+https://dx.doi.org/10.6084/m9.figshare.2059830.v1
+
