@@ -91,13 +91,41 @@ https://dx.doi.org/10.6084/m9.figshare.2059830.v1
 
 ### Artigos publicados em jornais acadêmicos locais e depositados em repositórios:
 
+> ### Articles published in local academic journals and deposited in repositories:
+
 Bonavides de Castro, Patrícia; Santos Bruno, Débora; Rodrigues Filho, Filadelfo; Felix, Francisco; Roberto Lavor Porto, Paulo; Odorico de Moraes Filho, Manoel (2016): Evaluation of the Interference of Cyclosporin in the Development of Metastasis in a Low Malignant Murine Tumor [portuguese]. figshare. https://dx.doi.org/10.6084/m9.figshare.2059851.v1
 
 Felix, Francisco (2016): Treatment of hemangioma in pediatric patients. [portuguese]. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2059821.v1
 
-### Comentários autopublicados (depositados) sobre artigos publicados:
+### Comentários autopublicados sobre artigos acadêmicos:
+
+> ### Selfpublished replies to academic publications:
 
 Felix, Francisco; Fontenele, Juvenia Bezerra (2016): Statin effect in fibromyalgia syndrome patients may not be easily predictable. figshare. https://dx.doi.org/10.6084/m9.figshare.3179281.v1
 
 Felix, Francisco; Fontenele, Juvenia Bezerra (2016): Side effects of propranolol used for the treatment of hemangiomas of infancy. figshare. https://dx.doi.org/10.6084/m9.figshare.3175576.v1
+
+### Projetos aprovados em comitês de ética em pesquisa:
+
+> ### Research projects approved by institutional review boards:
+
+Felix, Francisco. (2016). Phase IIa (proof of concept) Trial of Valproic Acid with Chemotherapy and Radiotherapy for Patients with Diffuse Intrinsic Pontine Glioma in Childhood and Adolescence - VALQUIRIA. Zenodo. https://dx.doi.org/10.5281/zenodo.44888
+
+Felix, Francisco. (2016). Retrospective analysis of off-label treatment with beta-blockers in pediatric patients with hemangiomas diagnosed between January and December 2009 at Hospital Infantil Albert Sabin.. Zenodo. https://dx.doi.org/10.5281/zenodo.44890
+
+Felix, Francisco. (2016). Longitudinal observational study of pediatric patients with primary brain tumors: establishment of a hospital-based registry.. Zenodo. 10.5281/zenodo.44885
+
+Felix, Francisco. (2016). Treatment assessment of pediatric brain tumor patients in Hospital Infantil Albert Sabin between 2007-2008 (amended to 2007-2010). Zenodo. https://dx.doi.org/10.5281/zenodo.44253
+
+### Monografias de trabalhos de conclusão de curso de alunos de graduação sob minha supervisão (rascunho):
+
+> ### Monographs of undergraduate students under my supervision (drafts):
+
+Lima, Rayra A C et al.. (2016). Evaluation of adverse events of chemotherapy in patients with central nervous system tumors: a retrospective study - first major draft release. Zenodo. https://dx.doi.org/10.5281/zenodo.45085
+
+### Macros e programas depositados publicamente:
+
+> ### Macros and scripts deposited in public repositories:
+
+Francisco H C Felix. (2016). rapadura: ff macro para OOo. Zenodo. https://dx.doi.org/10.5281/zenodo.46239
