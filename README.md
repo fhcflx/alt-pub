@@ -44,29 +44,33 @@ Felix F and Fontenele J. Chemoradiotherapy with etoposide, cisplatin, and ifosfa
 
 Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with recurrent brain tumors with vinblastine [v1; not peer reviewed]. F1000Research 2015, 4:1300 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111017.1
 
-Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with multiply recurrent brain tumors with temozolomide and valproic acid [v1; not peer reviewed]. F1000Research 2015, 4:1299 (poster) [Portuguese] [doi: 10.7490/f1000research.1111016.1]
+Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with multiply recurrent brain tumors with temozolomide and valproic acid [v1; not peer reviewed]. F1000Research 2015, 4:1299 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111016.1
 
-Barcelos P, Trindade V, Aguiar L et al. Ewing sarcoma in the skull of an infant: case report [v1; not peer reviewed]. F1000Research 2015, 4:1258 (poster) [Portuguese] [doi: 10.7490/f1000research.1110984.1]
+Barcelos P, Trindade V, Aguiar L et al. Ewing sarcoma in the skull of an infant: case report [v1; not peer reviewed]. F1000Research 2015, 4:1258 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1110984.1
 
-Trindade V, Barcelos P, Aguiar L et al. Intramedullary granulocytic sarcoma [v1; not peer reviewed]. F1000Research 2015, 4:1257 (poster) [Portuguese] [doi: 10.7490/f1000research.1110983.1]
+Trindade V, Barcelos P, Aguiar L et al. Intramedullary granulocytic sarcoma [v1; not peer reviewed]. F1000Research 2015, 4:1257 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1110983.1
 
-Freire P, Felix F, Santos K et al. Descriptive longitudinal study of pediatric patients with primary brain tumors: establishment of a hospital registry [v1; not peer reviewed]. F1000Research 2015, 4:1370 (poster) [Portuguese] [doi: 10.7490/f1000research.1111083.1]
+Freire P, Felix F, Santos K et al. Descriptive longitudinal study of pediatric patients with primary brain tumors: establishment of a hospital registry [v1; not peer reviewed]. F1000Research 2015, 4:1370 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111083.1
 
-Felix F, Azevedo JR, Feitosa M et al. Childhood pleuropulmonary blastoma [v1; not peer reviewed]. F1000Research 2015, 4:1304 (poster) [Portuguese] [doi: 10.7490/f1000research.1111021.1]
+Felix F, Azevedo JR, Feitosa M et al. Childhood pleuropulmonary blastoma [v1; not peer reviewed]. F1000Research 2015, 4:1304 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111021.1
 
-Felix F, Albuquerque J and Fontenele J. Subependymal Giant Cell Astrocytoma with good response to oral everolimus – a case report [v1; not peer reviewed]. F1000Research 2015, 4:1233 (poster) [Portuguese] [doi: 10.7490/f1000research.1110960.1]
+Felix F, Albuquerque J and Fontenele J. Subependymal Giant Cell Astrocytoma with good response to oral everolimus – a case report [v1; not peer reviewed]. F1000Research 2015, 4:1233 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1110960.1
 
-Felix F, Albuquerque J and Fontenele J. Survival analysis ​of pediatric patients with brain tumors using a machine learning method: decision tree analysis by recursive partitioning [v1; not peer reviewed]. F1000Research 2015, 4:1223 (poster) [Portuguese] [doi: 10.7490/f1000research.1110950.1]
+Felix F, Albuquerque J and Fontenele J. Survival analysis ​of pediatric patients with brain tumors using a machine learning method: decision tree analysis by recursive partitioning [v1; not peer reviewed]. F1000Research 2015, 4:1223 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1110950.1
 
-Felix F, Veras I, Nogueira C et al. Seizure prophylaxis with valproic acid in pediatric patients with brain tumors [v1; not peer reviewed]. F1000Research 2015, 4:1210 (poster) [doi: 10.7490/f1000research.1110938.1]
+Felix F, Veras I, Nogueira C et al. Seizure prophylaxis with valproic acid in pediatric patients with brain tumors [v1; not peer reviewed]. F1000Research 2015, 4:1210 (poster) https://doi.org/10.7490/f1000research.1110938.1
 
 ### Pré-publicações:
+
+> ### Preprints:
 
 Sales M, Figueiredo KS, Fontenele JB, Viana GS, Felix FH. (2015) Sibutramine antinociceptive effect in female rodents is not dependent on catecholaminergic signaling. PeerJ PrePrints 3:e1544v2 https://doi.org/10.7287/peerj.preprints.1544v2
 
 Figueiredo KS, Sales ML, Fontenele JB, Viana GS, Felix FH. (2015) Valproate antinociceptive and anti-inflammatory effect in female rodents. PeerJ PrePrints 3:e1613v1 https://doi.org/10.7287/peerj.preprints.1613v1
 
 ### Apresentações acadêmicas (diapositivos):
+
+> ### Academic presentations (slides):
 
 Felix, Francisco (2015): Clinical treatment of malignant brain tumors in pediatric patients. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2007588.v1
@@ -80,5 +84,20 @@ https://dx.doi.org/10.6084/m9.figshare.2007543.v1
 
 ### Resumos publicados em anais de congressos e depositados em repositórios:
 
+> ### Abstracts published in proceedings and deposited in repositories:
+
 Felix, Francisco (2016): Wilms tumor with cardiac extension - case report. [portuguese]. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2059830.v1
+
+### Artigos publicados em jornais acadêmicos locais e depositados em repositórios:
+
+Bonavides de Castro, Patrícia; Santos Bruno, Débora; Rodrigues Filho, Filadelfo; Felix, Francisco; Roberto Lavor Porto, Paulo; Odorico de Moraes Filho, Manoel (2016): Evaluation of the Interference of Cyclosporin in the Development of Metastasis in a Low Malignant Murine Tumor [portuguese]. figshare. https://dx.doi.org/10.6084/m9.figshare.2059851.v1
+
+Felix, Francisco (2016): Treatment of hemangioma in pediatric patients. [portuguese]. figshare.
+https://dx.doi.org/10.6084/m9.figshare.2059821.v1
+
+### Comentários autopublicados (depositados) sobre artigos publicados:
+
+Felix, Francisco; Fontenele, Juvenia Bezerra (2016): Statin effect in fibromyalgia syndrome patients may not be easily predictable. figshare. https://dx.doi.org/10.6084/m9.figshare.3179281.v1
+
+Felix, Francisco; Fontenele, Juvenia Bezerra (2016): Side effects of propranolol used for the treatment of hemangiomas of infancy. figshare. https://dx.doi.org/10.6084/m9.figshare.3175576.v1
