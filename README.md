@@ -151,11 +151,11 @@ Felix, Francisco. (2016). Treatment assessment of pediatric brain tumor patients
 
 Lima, Rayra A C et al.. (2016). Evaluation of adverse events of chemotherapy in patients with central nervous system tumors: a retrospective study - first major draft release. Zenodo. https://dx.doi.org/10.5281/zenodo.45085
 
-### Manuscritos criados no [Authorea](authorea.com), integrados com o [Github](github.com) e depositados no [Zenodo](zenodo.org):
+#### Manuscritos criados no [Authorea](authorea.com), integrados com o [Github](github.com) e depositados no [Zenodo](zenodo.org):
 
-> ### Manuscripts drafted in [Authorea](authorea.com), integrated with [Github](github.com) and deposited in [Zenodo](zenodo.org):
+> #### Manuscripts drafted in [Authorea](authorea.com), integrated with [Github](github.com) and deposited in [Zenodo](zenodo.org):
 
-Francisco H C Felix. (2016). Modelo de anteprojeto para relato de caso. Zenodo. 10.5281/zenodo.49874
+Francisco H C Felix. (2016). Modelo de anteprojeto para relato de caso. Zenodo. https://dx.doi.org/10.5281/zenodo.49874
 
 ### Macros e programas depositados publicamente:
 
