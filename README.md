@@ -35,13 +35,13 @@ Alternativas que não envolvem dilemas financeiros ou obstáculos à divulgaçã
 4. Ware, M., & Mabe, M. (2015). The STM Report. http://www.stm-assoc.org/2015_02_20_STM_Report_2015.pdf
 5. Bohannon, John (2013). "Who's Afraid of Peer Review?". Science 342 (6154): 60–65. https://dx.doi.org/10.1126/science.342.6154.60
 
-## Minhas publicações da via verde (auto-arquivo)
+## Minhas publicações da via verde
 
 > ## My green open access publications
 
-### Pôsteres publicados em repositórios acadêmicos:
+#### Pôsteres publicados em repositórios acadêmicos:
 
-> ### Conference posters deposited in repositories:
+> #### Conference posters deposited in repositories:
 
 Magalhaes R, Felix J, Albuquerque J et al. Evaluation of the analgesic effect of venlafaxine, a serotonin and noradrenaline reuptake inhibitor [v1; not peer reviewed]. F1000Research 2015, 4:1259 (poster) https://doi.org/10.7490/f1000research.1110985.1
 
@@ -83,17 +83,17 @@ Felix F, Albuquerque J and Fontenele J. Survival analysis ​of pediatric patien
 
 Felix F, Veras I, Nogueira C et al. Seizure prophylaxis with valproic acid in pediatric patients with brain tumors [v1; not peer reviewed]. F1000Research 2015, 4:1210 (poster) https://doi.org/10.7490/f1000research.1110938.1
 
-### Pré-publicações:
+#### Pré-publicações:
 
-> ### Preprints:
+> #### Preprints:
 
 Sales M, Figueiredo KS, Fontenele JB, Viana GS, Felix FH. (2015) Sibutramine antinociceptive effect in female rodents is not dependent on catecholaminergic signaling. PeerJ PrePrints 3:e1544v2 https://doi.org/10.7287/peerj.preprints.1544v2
 
 Figueiredo KS, Sales ML, Fontenele JB, Viana GS, Felix FH. (2015) Valproate antinociceptive and anti-inflammatory effect in female rodents. PeerJ PrePrints 3:e1613v1 https://doi.org/10.7287/peerj.preprints.1613v1
 
-### Apresentações acadêmicas (diapositivos):
+#### Apresentações acadêmicas (diapositivos):
 
-> ### Academic presentations (slides):
+> #### Academic presentations (slides):
 
 Felix F. Management of infantile hemangiomas [v1; not peer reviewed]. F1000Research 2015, 4:1231 (slides) [Portuguese] https://dx.doi.org/10.7490/f1000research.1110958.1
 
@@ -109,33 +109,33 @@ https://dx.doi.org/10.6084/m9.figshare.2007543.v1
 
 <iframe src="https://widgets.figshare.com/articles/2007543/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
 
-### Resumos publicados em anais de congressos e depositados em repositórios:
+#### Resumos publicados em anais de congressos e depositados em repositórios:
 
-> ### Abstracts published in proceedings and deposited in repositories:
+> #### Abstracts published in proceedings and deposited in repositories:
 
 Felix, Francisco (2016): Wilms tumor with cardiac extension - case report. [portuguese]. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2059830.v1
 
-### Artigos publicados em jornais acadêmicos locais e depositados em repositórios:
+#### Artigos publicados em jornais acadêmicos locais e depositados em repositórios:
 
-> ### Articles published in local academic journals and deposited in repositories:
+> #### Articles published in local academic journals and deposited in repositories:
 
 Bonavides de Castro, Patrícia; Santos Bruno, Débora; Rodrigues Filho, Filadelfo; Felix, Francisco; Roberto Lavor Porto, Paulo; Odorico de Moraes Filho, Manoel (2016): Evaluation of the Interference of Cyclosporin in the Development of Metastasis in a Low Malignant Murine Tumor [portuguese]. figshare. https://dx.doi.org/10.6084/m9.figshare.2059851.v1
 
 Felix, Francisco (2016): Treatment of hemangioma in pediatric patients. [portuguese]. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2059821.v1
 
-### Comentários autopublicados sobre artigos acadêmicos:
+#### Comentários autopublicados sobre artigos acadêmicos:
 
-> ### Selfpublished replies to academic publications:
+> #### Selfpublished replies to academic publications:
 
 Felix, Francisco; Fontenele, Juvenia Bezerra (2016): Statin effect in fibromyalgia syndrome patients may not be easily predictable. figshare. https://dx.doi.org/10.6084/m9.figshare.3179281.v1
 
 Felix, Francisco; Fontenele, Juvenia Bezerra (2016): Side effects of propranolol used for the treatment of hemangiomas of infancy. figshare. https://dx.doi.org/10.6084/m9.figshare.3175576.v1
 
-### Projetos aprovados em comitês de ética em pesquisa:
+#### Projetos aprovados em comitês de ética em pesquisa:
 
-> ### Research projects approved by institutional review boards:
+> #### Research projects approved by institutional review boards:
 
 Felix, Francisco. (2016). Phase IIa (proof of concept) Trial of Valproic Acid with Chemotherapy and Radiotherapy for Patients with Diffuse Intrinsic Pontine Glioma in Childhood and Adolescence - VALQUIRIA. Zenodo. https://dx.doi.org/10.5281/zenodo.44888
 
@@ -145,9 +145,9 @@ Felix, Francisco. (2016). Longitudinal observational study of pediatric patients
 
 Felix, Francisco. (2016). Treatment assessment of pediatric brain tumor patients in Hospital Infantil Albert Sabin between 2007-2008 (amended to 2007-2010). Zenodo. https://dx.doi.org/10.5281/zenodo.44253
 
-### Monografias de trabalhos de conclusão de curso de alunos de graduação sob minha supervisão (rascunho):
+#### Monografias de trabalhos de conclusão de curso de alunos de graduação sob minha supervisão (rascunho):
 
-> ### Monographs of undergraduate students under my supervision (drafts):
+> #### Monographs of undergraduate students under my supervision (drafts):
 
 Lima, Rayra A C et al.. (2016). Evaluation of adverse events of chemotherapy in patients with central nervous system tumors: a retrospective study - first major draft release. Zenodo. https://dx.doi.org/10.5281/zenodo.45085
 
@@ -157,21 +157,21 @@ Lima, Rayra A C et al.. (2016). Evaluation of adverse events of chemotherapy in 
 
 Francisco H C Felix. (2016). Modelo de anteprojeto para relato de caso. Zenodo. https://dx.doi.org/10.5281/zenodo.49874
 
-### Macros e programas depositados publicamente:
+#### Macros e programas depositados publicamente:
 
-> ### Macros and scripts deposited in public repositories:
+> #### Macros and scripts deposited in public repositories:
 
 Francisco H C Felix. (2016). rapadura: ff macro para OOo. Zenodo. https://dx.doi.org/10.5281/zenodo.46239
 
-### Comentário em Pubmed Commons (revisão pós-publicação):
+#### Comentário em Pubmed Commons (revisão pós-publicação):
 
-> ### Pubmed Commons comment (post-publication review):
+> #### Pubmed Commons comment (post-publication review):
 
 Felix, F. (2014). Comment on "The response and survival of children with recurrent diffuse intrinsic pontine glioma based on phase II study of antineoplastons A10 and AS2-1 in patients with brainstem glioma." By Burzynski et al. http://www.ncbi.nlm.nih.gov/pubmed/24718705#cm24718705_6838
 
-### Revisão pré-publicação (arbitragem):
+#### Revisão pré-publicação (arbitragem):
 
-> ### Pre-publication review (refereeing):
+> #### Pre-publication review (refereeing):
 
 Francisco H C Felix. (2013). Pre-publication review of "Gajjar, S., Mazloom, A., Chintagumpala, M., Mahajan, A., C. Paulino, A. 2014. Secondary Glioblastoma Multiform in a Patient with CHARGE Syndrome and Prior Radiation Therapy for Medulloblastoma. Pediatric Hematology-Oncology, 31: 366". https://publons.com/review/227398/
 
