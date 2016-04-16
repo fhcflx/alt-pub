@@ -18,7 +18,11 @@ Alternativas que não envolvem dilemas financeiros ou obstáculos à divulgaçã
 
 ## Minhas publicações da Via Verde
 
+> ## My green open access publications
+
 ### Pôsteres publicados em repositórios acadêmicos:
+
+> ### Conference posters deposited in repositories:
 
 Magalhaes R, Felix J, Albuquerque J et al. Evaluation of the analgesic effect of venlafaxine, a serotonin and noradrenaline reuptake inhibitor [v1; not peer reviewed]. F1000Research 2015, 4:1259 (poster) https://doi.org/10.7490/f1000research.1110985.1
 
@@ -112,9 +116,9 @@ Felix, Francisco; Fontenele, Juvenia Bezerra (2016): Side effects of propranolol
 
 Felix, Francisco. (2016). Phase IIa (proof of concept) Trial of Valproic Acid with Chemotherapy and Radiotherapy for Patients with Diffuse Intrinsic Pontine Glioma in Childhood and Adolescence - VALQUIRIA. Zenodo. https://dx.doi.org/10.5281/zenodo.44888
 
-Felix, Francisco. (2016). Retrospective analysis of off-label treatment with beta-blockers in pediatric patients with hemangiomas diagnosed between January and December 2009 at Hospital Infantil Albert Sabin.. Zenodo. https://dx.doi.org/10.5281/zenodo.44890
+Felix, Francisco. (2016). Retrospective analysis of off-label treatment with beta-blockers in pediatric patients with hemangiomas diagnosed between January and December 2009 at Hospital Infantil Albert Sabin. Zenodo. https://dx.doi.org/10.5281/zenodo.44890
 
-Felix, Francisco. (2016). Longitudinal observational study of pediatric patients with primary brain tumors: establishment of a hospital-based registry.. Zenodo. 10.5281/zenodo.44885
+Felix, Francisco. (2016). Longitudinal observational study of pediatric patients with primary brain tumors: establishment of a hospital-based registry. Zenodo. https://dx.doi.org/10.5281/zenodo.44885
 
 Felix, Francisco. (2016). Treatment assessment of pediatric brain tumor patients in Hospital Infantil Albert Sabin between 2007-2008 (amended to 2007-2010). Zenodo. https://dx.doi.org/10.5281/zenodo.44253
 
