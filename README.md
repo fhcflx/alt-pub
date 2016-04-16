@@ -162,3 +162,26 @@ Francisco H C Felix. (2016). Modelo de anteprojeto para relato de caso. Zenodo. 
 > ### Macros and scripts deposited in public repositories:
 
 Francisco H C Felix. (2016). rapadura: ff macro para OOo. Zenodo. https://dx.doi.org/10.5281/zenodo.46239
+
+### Comentário em Pubmed Commons (revisão pós-publicação):
+
+> ### Pubmed Commons comment (post-publication review):
+
+Felix, F. (2014). Comment on "The response and survival of children with recurrent diffuse intrinsic pontine glioma based on phase II study of antineoplastons A10 and AS2-1 in patients with brainstem glioma." By Burzynski et al. http://www.ncbi.nlm.nih.gov/pubmed/24718705#cm24718705_6838
+
+### Revisão pré-publicação (arbitragem):
+
+> ### Pre-publication review (refereeing):
+
+Francisco H C Felix. (2013). Pre-publication review of "Gajjar, S., Mazloom, A., Chintagumpala, M., Mahajan, A., C. Paulino, A. 2014. Secondary Glioblastoma Multiform in a Patient with CHARGE Syndrome and Prior Radiation Therapy for Medulloblastoma. Pediatric Hematology-Oncology, 31: 366". https://publons.com/review/227398/
+
+Francisco H C Felix. (2011). Pre-publication review of "Madhumita, N., Suhas K., G., Rakesh K., M., Supratim, D., Krishnendu, M. Infection associated hemophagocytic syndrome in childhood tuberculosis: A case report. Journal of Pediatric Infectious Diseases, 5: 91". https://publons.com/review/234534/
+
+Francisco H C Felix. (2010). Pre-publication review of "H. Solomon, D. 2010. The Comparative Safety of Analgesics in Older Adults With Arthritis. Archives of Internal Medicine, 170: 1968". https://publons.com/review/227448/
+
+Francisco H C Felix. (2009). Pre-publication review of "Collins, P., Baudo, F., Huth-Kühne, A., Ingerslev, J., M Kessler, C., Castellano, M., Shima, M., St-Louis, J., Lévesque, H. 2010. Consensus recommendations for the diagnosis and treatment of acquired hemophilia A. BMC Research Notes, 3: 161". https://publons.com/review/227451/
+
+Francisco H C Felix. (2009). Pre-publication review of "R. Meacham, L., A. Sklar, C., Li, S., Liu, Q., Gimpel, N., Yasui, Y., A. Whitton, J., Stovall, M., L. Robison, L., C. Oeffinger, K. 2009. Diabetes Mellitus in Long-term Survivors of Childhood Cancer. Archives of Internal Medicine, 169: 1381". https://publons.com/review/227452/
+
+Francisco H C Felix. (2009). Pre-publication review of "L. Cox, C., M. Hudson, M., Mertens, A., Oeffinger, K., Whitton, J., Montgomery, M., L. Robison, L. 2009. Medical Screening Participation in the Childhood Cancer Survivor Study. Archives of Internal Medicine, 169: 454". https://publons.com/review/227467/
+
