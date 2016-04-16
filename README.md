@@ -14,35 +14,35 @@ O modelo de revisão por pares é economicamente dominado por editoras e jornais
 Alternativas que não envolvem dilemas financeiros ou obstáculos à divulgação científica têm sido propostas cada vez mais frequentemente. Um conjunto de modalidades de publicação díspares pode ser agrupado no rótulo de **Via Verde** do acesso aberto, onde as publicações ficam disponíveis gratuitamente ao público na internet, mas os custos de publicação são diluídos por não haver um veículo "periódico", substituído por repositórios onde os próprios autores "publicam" ou depositam seu trabalho (autopublicação). Esses manuscritos (ou outras formas de trabalho acadêmico) não são revisadas por pares, nem passam pela avaliação de um corpo editorial. Tais repositórios são, em sua maioria, sediados em instituições universitárias, embora existam modelos híbridos onde uma empresa provê tanto serviços de acesso aberto pago pelos autores (também chamado de **Via Dourada**), quanto um repositório de autopublicação.
 
 1. Dickersin, K.; Chan, S.; Chalmers, T. C.; et al. (1987). "Publication bias and clinical trials". Controlled Clinical Trials 8 (4): 343–353. doi:10.1016/0197-2456(87)90155-3. PMID 3442991.
-2. Lee, K. & Bero, L. (2006). Increasing accountability. What authors, editors and reviewers should do to improve peer review. Nature doi:10.1038/nature05007
+2. Lee, K. & Bero, L. (2006). Increasing accountability. What authors, editors and reviewers should do to improve peer review. Nature https://doi.org/10.1038/nature05007
 
 ## Minhas publicações da Via Verde
 
 ### Pôsteres publicados em repositórios acadêmicos:
 
-Magalhaes R, Felix J, Albuquerque J et al. Evaluation of the analgesic effect of venlafaxine, a serotonin and noradrenaline reuptake inhibitor [v1; not peer reviewed]. F1000Research 2015, 4:1259 (poster) [doi: 10.7490/f1000research.1110985.1]
+Magalhaes R, Felix J, Albuquerque J et al. Evaluation of the analgesic effect of venlafaxine, a serotonin and noradrenaline reuptake inhibitor [v1; not peer reviewed]. F1000Research 2015, 4:1259 (poster) https://doi.org/10.7490/f1000research.1110985.1
 
-Fontenele J, Freire P, Santos K et al. Focal brainstem tumors: report of patients treated in a brazilian pediatric oncological center [v1; not peer reviewed]. F1000Research 2015, 4:1363 (poster) [Portuguese] [doi: 10.7490/f1000research.1111076.1]
+Fontenele J, Freire P, Santos K et al. Focal brainstem tumors: report of patients treated in a brazilian pediatric oncological center [v1; not peer reviewed]. F1000Research 2015, 4:1363 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111076.1
 
-Felix F, Santos K, Freire P et al. Diffuse intrinsic pontine gliomas: report of patients treated in a brazilian pediatric oncological center [v1; not peer reviewed]. F1000Research 2015, 4:1362 (poster) [Portuguese] [doi: 10.7490/f1000research.1111075.1]
+Felix F, Santos K, Freire P et al. Diffuse intrinsic pontine gliomas: report of patients treated in a brazilian pediatric oncological center [v1; not peer reviewed]. F1000Research 2015, 4:1362 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111075.1
 
-Santos K, Lima R, Bastos MV et al. Retrospective evaluation of patients with recurrent brain tumors treated with vinblastine or temozolomide at the Albert Sabin Children's Hospital between 2007-2012 [v1; not peer reviewed]. F1000Research 2015, 4:1256 (poster) [Portuguese] [doi: 10.7490/f1000research.1110982.1]
+Santos K, Lima R, Bastos MV et al. Retrospective evaluation of patients with recurrent brain tumors treated with vinblastine or temozolomide at the Albert Sabin Children's Hospital between 2007-2012 [v1; not peer reviewed]. F1000Research 2015, 4:1256 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1110982.1
 
-Felix F, Feitosa M, Bezerra MdC et al. Undifferentiated intracardiac tumor [v1; not peer reviewed]. F1000Research 2015, 4:1358 (poster) [Portuguese] [doi: 10.7490/f1000research.1111073.1]
+Felix F, Feitosa M, Bezerra MdC et al. Undifferentiated intracardiac tumor [v1; not peer reviewed]. F1000Research 2015, 4:1358 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111073.1
 
-Felix F, Freire P, Santos K and Fontenele J. Predictors of survival in children with ependymoma from a single center: using random survival forests [v1; not peer reviewed]. F1000Research 2015, 4:1209 (poster) [doi: 10.7490/f1000research.1110937.1]
+Felix F, Freire P, Santos K and Fontenele J. Predictors of survival in children with ependymoma from a single center: using random survival forests [v1; not peer reviewed]. F1000Research 2015, 4:1209 (poster) https://doi.org/10.7490/f1000research.1110937.1
 
-Felix F, Mattos JP, Hirth C and Fontenele J. Everolimus for patients with tumors associated with tuberous sclerosis and neurofibromatosis [v1; not peer reviewed]. F1000Research 2015, 4:1357 (poster) [Portuguese] [doi: 10.7490/f1000research.1111072.1]
+Felix F, Mattos JP, Hirth C and Fontenele J. Everolimus for patients with tumors associated with tuberous sclerosis and neurofibromatosis [v1; not peer reviewed]. F1000Research 2015, 4:1357 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111072.1
 
-Alves N, Aquino R, Veras I and Felix F. A case of medulloblastoma with late neurologic deterioration [v1; not peer reviewed]. F1000Research 2015, 4:1343 (poster) [Portuguese] [doi: 10.7490/f1000research.1111060.1]
+Alves N, Aquino R, Veras I and Felix F. A case of medulloblastoma with late neurologic deterioration [v1; not peer reviewed]. F1000Research 2015, 4:1343 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111060.1
 
-Felix F, Veras I, Nogueira C and Juvenia F. Nimotuzumab in a case of recurrent glioblastoma expressing a new EGFR mutation [v1; not peer reviewed]. F1000Research 2015, 4:1303 (poster) [Portuguese] [doi: 10.7490/f1000research.1111020.1]
+Felix F, Veras I, Nogueira C and Juvenia F. Nimotuzumab in a case of recurrent glioblastoma expressing a new EGFR mutation [v1; not peer reviewed]. F1000Research 2015, 4:1303 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111020.1
 
-Felix F, Veras I, Bacalhau AF and Fontenele J. Nimotuzumab in patients with progressive diffuse intrinsic pontine glioma [v1; not peer reviewed]. F1000Research 2015, 4:1302 (poster) [doi: 10.7490/f1000research.1111019.1]
+Felix F, Veras I, Bacalhau AF and Fontenele J. Nimotuzumab in patients with progressive diffuse intrinsic pontine glioma [v1; not peer reviewed]. F1000Research 2015, 4:1302 (poster) https://doi.org/10.7490/f1000research.1111019.1
 
-Felix F and Fontenele J. Chemoradiotherapy with etoposide, cisplatin, and ifosfamide associated with valproic acid for patients with diffuse intrinsic pontine glioma [v1; not peer reviewed]. F1000Research 2015, 4:1301 (poster) [Portuguese] [doi: 10.7490/f1000research.1111018.1]
+Felix F and Fontenele J. Chemoradiotherapy with etoposide, cisplatin, and ifosfamide associated with valproic acid for patients with diffuse intrinsic pontine glioma [v1; not peer reviewed]. F1000Research 2015, 4:1301 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111018.1
 
-Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with recurrent brain tumors with vinblastine [v1; not peer reviewed]. F1000Research 2015, 4:1300 (poster) [Portuguese] [doi: 10.7490/f1000research.1111017.1]
+Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with recurrent brain tumors with vinblastine [v1; not peer reviewed]. F1000Research 2015, 4:1300 (poster) [Portuguese] https://doi.org/10.7490/f1000research.1111017.1
 
 Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with multiply recurrent brain tumors with temozolomide and valproic acid [v1; not peer reviewed]. F1000Research 2015, 4:1299 (poster) [Portuguese] [doi: 10.7490/f1000research.1111016.1]
 
@@ -82,4 +82,3 @@ https://dx.doi.org/10.6084/m9.figshare.2007543.v1
 
 Felix, Francisco (2016): Wilms tumor with cardiac extension - case report. [portuguese]. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2059830.v1
-
