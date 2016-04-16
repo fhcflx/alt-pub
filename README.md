@@ -163,11 +163,13 @@ Francisco H C Felix. (2016). Modelo de anteprojeto para relato de caso. Zenodo. 
 
 Francisco H C Felix. (2016). rapadura: ff macro para OOo. Zenodo. https://dx.doi.org/10.5281/zenodo.46239
 
-#### Comentário em Pubmed Commons (revisão pós-publicação):
+#### Comentários em Pubmed Commons (revisão pós-publicação):
 
-> #### Pubmed Commons comment (post-publication review):
+> #### Pubmed Commons comments (post-publication review):
 
 Felix, F. (2014). Comment on "The response and survival of children with recurrent diffuse intrinsic pontine glioma based on phase II study of antineoplastons A10 and AS2-1 in patients with brainstem glioma." By Burzynski et al. http://www.ncbi.nlm.nih.gov/pubmed/24718705#cm24718705_6838
+
+Felix, F. (2014). Comment on "Inadvertent high-dose therapy with temozolomide in a child with recurrent pontine glioma followed by a rapid clinical response but deteriorated after substitution with low-dose therapy." By Wang et al. http://www.ncbi.nlm.nih.gov/pubmed/24732058#cm24732058_7147
 
 #### Revisão pré-publicação (arbitragem):
 
