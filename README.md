@@ -76,6 +76,10 @@ Figueiredo KS, Sales ML, Fontenele JB, Viana GS, Felix FH. (2015) Valproate anti
 
 > ### Academic presentations (slides):
 
+Felix F. Management of infantile hemangiomas [v1; not peer reviewed]. F1000Research 2015, 4:1231 (slides) [Portuguese] https://dx.doi.org/10.7490/f1000research.1110958.1
+
+Albuquerque J, Fontenele J and Felix F. Propranolol treatment for children with hemangiomas – final report [v1; not peer reviewed]. F1000Research 2015, 4:1232 (slides) [Portuguese] https://dx.doi.org/10.7490/f1000research.1110959.1
+
 Felix, Francisco (2015): Clinical treatment of malignant brain tumors in pediatric patients. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2007588.v1
 
