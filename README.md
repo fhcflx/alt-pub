@@ -187,3 +187,5 @@ Francisco H C Felix. (2009). Pre-publication review of "R. Meacham, L., A. Sklar
 
 Francisco H C Felix. (2009). Pre-publication review of "L. Cox, C., M. Hudson, M., Mertens, A., Oeffinger, K., Whitton, J., Montgomery, M., L. Robison, L. 2009. Medical Screening Participation in the Childhood Cancer Survivor Study. Archives of Internal Medicine, 169: 454". https://publons.com/review/227467/
 
+Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative types of academic publications. Zenodo. 10.5281/zenodo.49877
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.49877.svg)](http://dx.doi.org/10.5281/zenodo.49877)
