@@ -105,12 +105,8 @@ Albuquerque J, Fontenele J and Felix F. Propranolol treatment for children with 
 Felix, Francisco (2015): Clinical treatment of malignant brain tumors in pediatric patients. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2007588.v1
 
-<iframe src="https://widgets.figshare.com/articles/2007588/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
-
 Felix, Francisco (2015): Clinical treatment of low-grade gliomas in pediatric patients. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2007543.v1
-
-<iframe src="https://widgets.figshare.com/articles/2007543/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
 
 #### Resumos publicados em anais de congressos e depositados em repositórios:
 
