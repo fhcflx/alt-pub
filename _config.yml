@@ -1,0 +1,1 @@
+exclude: [README.md,.bundle,.git,_site,Gemfile]
