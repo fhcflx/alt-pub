@@ -190,5 +190,5 @@ Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative type
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50619.svg)](http://dx.doi.org/10.5281/zenodo.50619)
 
-![](/my_orcid_qrcode.png)
-_orcid.org/0000-0002-8398-0993_
+<img src="/my_orcid_qrcode.png" width="200"/>
+*orcid.org/0000-0002-8398-0993*
