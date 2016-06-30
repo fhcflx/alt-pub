@@ -1,1 +1,2 @@
 exclude: [README.md,.bundle,.git,_site,Gemfile]
+url: 'http://fhcflx.github.io/alt-pub'
