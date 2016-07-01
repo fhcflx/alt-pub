@@ -1,4 +1,4 @@
-exclude: [README.md,.bundle,.git,_site,Gemfile]
+exclude: [README.md,.bundle,.git,_site,Gemfile,Gemfile.lock]
 url: 'http://fhcflx.github.io/alt-pub'
 
 markdown: kramdown
