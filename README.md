@@ -192,4 +192,4 @@ Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative type
 
 <img src="/my_orcid_qrcode.png" width="200"/>
 
-*[orcid.org/0000-0002-8398-0993](orcid.org/0000-0002-8398-0993)*
+*[orcid.org/0000-0002-8398-0993](http://orcid.org/0000-0002-8398-0993)*
