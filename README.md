@@ -188,9 +188,8 @@ Francisco H C Felix. (2009). Pre-publication review of "L. Cox, C., M. Hudson, M
 
 Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative types of academic publications. Zenodo. 10.5281/zenodo.50619
 
-<section style="text-align: center;">
-  [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50619.svg)](http://dx.doi.org/10.5281/zenodo.50619)
+<p style="text-align: center;">[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50619.svg)](http://dx.doi.org/10.5281/zenodo.50619)</p>
 
-  <img src="/my_orcid_qrcode.png" width="200"/>
-  *[orcid.org/0000-0002-8398-0993](orcid.org/0000-0002-8398-0993)*
-</section>
+<p style="text-align: center;"><img src="/my_orcid_qrcode.png" width="200"/></p>
+
+<p style="text-align: center;">*[orcid.org/0000-0002-8398-0993](orcid.org/0000-0002-8398-0993)*</p>
