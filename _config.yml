@@ -1,4 +1,13 @@
 exclude: [README.md,.bundle,.git,_site,Gemfile,Gemfile.lock]
-url: 'http://fhcflx.github.io/alt-pub'
+url: ''
+index:
+  en: index.html
+  pt: index-pt.html
+defaults:
+  -
+    values:
+      author: "Francisco H C Felix, Juvenia B Fontenele"
+      permalink: 
+
 
 markdown: kramdown
