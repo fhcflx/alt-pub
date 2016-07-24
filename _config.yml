@@ -7,7 +7,7 @@ defaults:
   -
     values:
       author: "Francisco H C Felix, Juvenia B Fontenele"
-      permalink: 
+      permalink:
 
 
 markdown: kramdown
