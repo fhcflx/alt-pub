@@ -190,3 +190,7 @@ Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative type
 
 <img align="center", src="https://github.com/fhcflx/alt-pub/blob/gh-pages/my_orcid_qrcode.png" width="200"/>
 
+<a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
