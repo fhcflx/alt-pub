@@ -186,7 +186,7 @@ Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative type
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50619.svg)](http://dx.doi.org/10.5281/zenodo.50619)
 
-<p style="text-align: center;">*[orcid.org/0000-0002-8398-0993](http://orcid.org/0000-0002-8398-0993)*</p>
+*[orcid.org/0000-0002-8398-0993](http://orcid.org/0000-0002-8398-0993)*
 
 <img src="https://github.com/fhcflx/alt-pub/blob/gh-pages/my_orcid_qrcode.png" width="200"/>
 
