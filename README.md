@@ -1,4 +1,3 @@
-# alt-pub
 ## Modalidades alternativas de publicação acadêmica.
 
 Atualmente, o paradigma da publicação científica gira basicamente em torno de um modelo: o de publicações editoradas e [revisadas por pares](https://pt.wikipedia.org/wiki/Revis%C3%A3o_por_pares). Dominado por algumas poucas empresas e instituições, este modelo baseia-se em periódicos científicos que publicam em meio impresso, na internet, ou ambos, trabalhos que passam por uma laboriosa seleção de qualidade. Inicialmente, um corpo editorial avalia a qualidade geral das submissões, sua adequação à linha editorial do periódico, sua aparente solidez científica, o desenho geral e o interesse para a audiência do periódico. Após este filtro altamente subjetivo, os manuscritos ainda não publicados são enviados para revisores técnicos, normalmente pessoas com profundo conhecimento da área sobre a qual a submissão trata. Pelo menos dois destes revisores são acionados pelos editores. Caso os dois aceitem a incubência e aprovem o manuscrito, o mesmo é encaminhado para publicação.
@@ -187,6 +186,10 @@ Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative type
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50619.svg)](http://dx.doi.org/10.5281/zenodo.50619)
 
-<img src="https://github.com/fhcflx/alt-pub/blob/gh-pages/my_orcid_qrcode.png" width="200"/>
+<center>
 
 *[orcid.org/0000-0002-8398-0993](http://orcid.org/0000-0002-8398-0993)*
+
+<img src="https://github.com/fhcflx/alt-pub/blob/gh-pages/my_orcid_qrcode.png" width="200"/>
+
+</center>
