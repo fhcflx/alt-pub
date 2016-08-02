@@ -188,5 +188,5 @@ Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative type
 
 *[orcid.org/0000-0002-8398-0993](http://orcid.org/0000-0002-8398-0993)*
 
-<img src="https://github.com/fhcflx/alt-pub/blob/gh-pages/my_orcid_qrcode.png" width="200"/>
+<img align="center", src="https://github.com/fhcflx/alt-pub/blob/gh-pages/my_orcid_qrcode.png" width="200"/>
 
