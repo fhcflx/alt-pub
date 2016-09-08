@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Francisco H C Felix'
 SITENAME = u'Publicações acadêmicas'
-SITEURL = ''
+SITEURL = 'http://fhcflx.github.io/alt-pub'
 
 PATH = 'content'
 OUTPUT_PATH = 'public'
