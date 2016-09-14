@@ -31,9 +31,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
+LINKS = (('Ciência Médica', 'http://fhcflx.github.io/ciencia-medica/'),
+         ('Pharmakon', 'http://pharmak.blogspot.com/'),
+         ('Neuro-oncologia', 'http://fhcflx.github.io/cpc-neuro/'),
 #        ('You can modify those links in your config file', '#'),
          )
 
@@ -41,11 +41,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (
 #         ('You can add links in your config file', '#'),
 #         ('Another social link', '#'),
-          ('google-plus', 'https://plus.google.com/u/0/+FranciscoHCFelix'),
+          ('linkedin', 'https://www.linkedin.com/in/francisco-h-c-felix-84ba8226?trk=hp-identity-name'),
           ('twitter', 'http://twitter.com/fhcflx'),
           ('github', 'http://github.com/fhcflx'),
-          ('gitlab', 'http://gitlab.com/fhcflx', 'fa-gitlab'),
-          ('bitbucket', 'http://bitbucket.org/fhcflx'),
+#          ('gitlab', 'http://gitlab.com/fhcflx', 'Gitlab'),
+#          ('bitbucket', 'http://bitbucket.org/fhcflx'),
           )
 
 DEFAULT_PAGINATION = 5
