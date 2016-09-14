@@ -1,6 +1,6 @@
 Title: Modalidades alternativas de publicação acadêmica
 Date: 2016-06-30
-Category: Publicações
+Category: Artigos
 Lang: pt
 Tags: pelican, gitlab, open access, green way
 Slug: alternative-types-of-academic-publication
