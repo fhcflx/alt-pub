@@ -116,3 +116,5 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 TAGS_SAVE_AS = 'tag.html'
 TAG_URL = 'tag/{slug}.html'
 TAG_SAVE_AS = 'tag/{slug}.html'
+
+GOOGLE_ANALYTICS = 'UA-79742963-2'
