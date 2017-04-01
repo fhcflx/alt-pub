@@ -117,4 +117,4 @@ TAGS_SAVE_AS = 'tag.html'
 TAG_URL = 'tag/{slug}.html'
 TAG_SAVE_AS = 'tag/{slug}.html'
 
-GOOGLE_ANALYTICS = 'UA-79742963-2'
+GOOGLE_ANALYTICS_UNIVERSAL = 'UA-79742963-2'
