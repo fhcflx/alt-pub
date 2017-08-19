@@ -1,3 +1,8 @@
+[![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)
+[![GitHub stars](https://img.shields.io/github/stars/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/issues)
+[![GitHub downloads](https://img.shields.io/github/downloads/fhcflx/alt-pub/total.svg)](https://github.com/fhcflx/alt-pub/releases)
+
 ## Modalidades alternativas de publicação acadêmica.
 
 Atualmente, o paradigma da publicação científica gira basicamente em torno de um modelo: o de publicações editoradas e [revisadas por pares](https://pt.wikipedia.org/wiki/Revis%C3%A3o_por_pares). Dominado por algumas poucas empresas e instituições, este modelo baseia-se em periódicos científicos que publicam em meio impresso, na internet, ou ambos, trabalhos que passam por uma laboriosa seleção de qualidade. Inicialmente, um corpo editorial avalia a qualidade geral das submissões, sua adequação à linha editorial do periódico, sua aparente solidez científica, o desenho geral e o interesse para a audiência do periódico. Após este filtro altamente subjetivo, os manuscritos ainda não publicados são enviados para revisores técnicos, normalmente pessoas com profundo conhecimento da área sobre a qual a submissão trata. Pelo menos dois destes revisores são acionados pelos editores. Caso os dois aceitem a incubência e aprovem o manuscrito, o mesmo é encaminhado para publicação.
@@ -182,9 +187,9 @@ Francisco H C Felix. (2009). Pre-publication review of "R. Meacham, L., A. Sklar
 
 Francisco H C Felix. (2009). Pre-publication review of "L. Cox, C., M. Hudson, M., Mertens, A., Oeffinger, K., Whitton, J., Montgomery, M., L. Robison, L. 2009. Medical Screening Participation in the Childhood Cancer Survivor Study. Archives of Internal Medicine, 169: 454". https://publons.com/review/227467/
 
-Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative types of academic publications. Zenodo. 10.5281/zenodo.50619
+Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative types of academic publications. Zenodo. 10.5281/zenodo.594582
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50619.svg)](http://dx.doi.org/10.5281/zenodo.50619)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
 
 *[orcid.org/0000-0002-8398-0993](http://orcid.org/0000-0002-8398-0993)*
 
