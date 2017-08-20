@@ -2,6 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/issues)
 [![GitHub downloads](https://img.shields.io/github/downloads/fhcflx/alt-pub/total.svg)](https://github.com/fhcflx/alt-pub/releases)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
 
 ## Modalidades alternativas de publicação acadêmica.
 
@@ -188,8 +189,6 @@ Francisco H C Felix. (2009). Pre-publication review of "R. Meacham, L., A. Sklar
 Francisco H C Felix. (2009). Pre-publication review of "L. Cox, C., M. Hudson, M., Mertens, A., Oeffinger, K., Whitton, J., Montgomery, M., L. Robison, L. 2009. Medical Screening Participation in the Childhood Cancer Survivor Study. Archives of Internal Medicine, 169: 454". https://publons.com/review/227467/
 
 Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative types of academic publications. Zenodo. 10.5281/zenodo.594582
-
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
 
 *[orcid.org/0000-0002-8398-0993](http://orcid.org/0000-0002-8398-0993)*
 
