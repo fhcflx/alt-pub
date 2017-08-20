@@ -4,6 +4,7 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/fhcflx/alt-pub/total.svg)](https://github.com/fhcflx/alt-pub/releases)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8398--0993-red%20.svg)](http://orcid.org/0000-0002-8398-0993)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Modalidades alternativas de publicação acadêmica.
 
@@ -191,9 +192,3 @@ Francisco H C Felix. (2009). Pre-publication review of "L. Cox, C., M. Hudson, M
 
 Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative types of academic publications. Zenodo. 10.5281/zenodo.594582
 
-<img align="center" src="https://github.com/fhcflx/alt-pub/blob/master/my_orcid_qrcode.png?raw=True" width="200"/>
-
-<a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
