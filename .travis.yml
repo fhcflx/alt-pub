@@ -4,7 +4,7 @@ branches:
   - pelican
 language: python
 before_install:
-- git remote set-url origin git@github.com:fhcflx/alt-pub.git
+- git remote set-url origin https://github.com/fhcflx/alt-pub.git
 - git fetch origin -f gh-pages:gh-pages
 install:
 - pip install --upgrade pip
