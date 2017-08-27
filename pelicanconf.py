@@ -34,7 +34,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Ciência Médica', 'http://fhcflx.github.io/ciencia-medica/'),
          ('Pharmakon', 'http://pharmak.blogspot.com/'),
          ('Neuro-oncologia', 'http://fhcflx.github.io/cpc-neuro/'),
-#        ('You can modify those links in your config file', '#'),
+#         ('You can modify those links in your config file', '#'),
          )
 
 # Social widget
@@ -44,8 +44,8 @@ SOCIAL = (
           ('linkedin', 'https://www.linkedin.com/in/francisco-h-c-felix-84ba8226?trk=hp-identity-name'),
           ('twitter', 'http://twitter.com/fhcflx'),
           ('github', 'http://github.com/fhcflx'),
-#          ('gitlab', 'http://gitlab.com/fhcflx', 'Gitlab'),
-#          ('bitbucket', 'http://bitbucket.org/fhcflx'),
+#         ('gitlab', 'http://gitlab.com/fhcflx', 'Gitlab'),
+#         ('bitbucket', 'http://bitbucket.org/fhcflx'),
           )
 
 DEFAULT_PAGINATION = 5
@@ -68,11 +68,13 @@ PLUGINS = [
     # 'related_posts',
     # 'better_codeblock_line_numbering',
     # 'extract_toc',
-    'render_math',
+    'i18n_subsites',
+    # 'render_math',
     # 'disqus_static',
     # 'better_figures_and_images'
     ]
-MD_EXTENSIONS = ['codehilite','extra','smarty', 'toc']
+MARKDOWN = {'extensions': ['codehilite','extra','smarty', 'toc']}
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 # PLUGINS += ['subcategory']
 # CATEGORIES_SAVE_AS = 'categories.html'
