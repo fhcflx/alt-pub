@@ -5,6 +5,7 @@
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8398--0993-red%20.svg)](http://orcid.org/0000-0002-8398-0993)
 [![License: CC0](https://img.shields.io/badge/License-CC%200-lightgrey.svg)](https://creativecommons.org/share-your-work/public-domain/cc0/)
+[![Build](https://img.shields.io/travis/fhcflx/alt-pub.svg)](https://travis-ci.org/fhcflx/alt-pub)
 
 ## Modalidades alternativas de publicação acadêmica.
 
