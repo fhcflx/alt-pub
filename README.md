@@ -1,5 +1,4 @@
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)
-[![GitHub stars](https://img.shields.io/github/stars/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/issues)
 [![GitHub downloads](https://img.shields.io/github/downloads/fhcflx/alt-pub/total.svg)](https://github.com/fhcflx/alt-pub/releases)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
@@ -116,8 +115,6 @@ Felix, Francisco. (2016). Longitudinal observational study of pediatric patients
 Felix, Francisco. (2016). Treatment assessment of pediatric brain tumor patients in Hospital Infantil Albert Sabin between 2007-2008 (amended to 2007-2010). Zenodo. https://dx.doi.org/10.5281/zenodo.44253
 
 #### Monografias de trabalhos de conclusão de curso de alunos de graduação sob minha supervisão (rascunho):
-
-> #### Monographs of undergraduate students under my supervision (drafts):
 
 Lima, Rayra A C et al.. (2016). Evaluation of adverse events of chemotherapy in patients with central nervous system tumors: a retrospective study - first major draft release. Zenodo. https://dx.doi.org/10.5281/zenodo.45085
 
