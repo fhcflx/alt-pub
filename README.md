@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/issues)
 [![GitHub downloads](https://img.shields.io/github/downloads/fhcflx/alt-pub/total.svg)](https://github.com/fhcflx/alt-pub/releases)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8398--0993-red%20.svg)](http://orcid.org/0000-0002-8398-0993)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8398--0993-blue.svg)](http://orcid.org/0000-0002-8398-0993)
 [![License: CC0](https://img.shields.io/badge/License-CC%200-lightgrey.svg)](https://creativecommons.org/share-your-work/public-domain/cc0/)
 [![Build](https://img.shields.io/travis/fhcflx/alt-pub.svg)](https://travis-ci.org/fhcflx/alt-pub)
 
@@ -25,31 +25,9 @@ Alternativas que não envolvem dilemas financeiros ou obstáculos à divulgaçã
 4. Ware, M., & Mabe, M. (2015). The STM Report. http://www.stm-assoc.org/2015_02_20_STM_Report_2015.pdf
 5. Bohannon, John (2013). "Who's Afraid of Peer Review?". Science 342 (6154): 60–65. https://dx.doi.org/10.1126/science.342.6154.60
 
-> ## Alternative types of academic publications.
-
-> Currently, the paradigm of scientific publication involves primarily the model of [peer-reviewed] (https://en.wikipedia.org/wiki/Peer_review) publications. Dominated by a few companies and institutions, this model is based on scientific journals that publish in print, on the Internet, or both, works that go through a laborious selection of quality. Initially, an editorial board evaluates the overall quality of submissions, their suitability to the journal editorial line, its apparent scientific soundness, the general design and interest to the audience of the journal. After this highly subjective filter, the unpublished manuscripts are still sent to technical reviewers, usually people with deep knowledge about the area of the submission. At least two of these reviewers are commissioned by the editors. If both accept the task and approve the manuscript, it is submitted for publication.
-
-> A number of problems afflict the peer reviewed publishing model. The bias imposed by the initial editorial evaluation is pretty obvious, but largely overlooked in discussions on the subject. The editors of a journal, as a rule, print its brand on the editorial line of the journal, often remarkably, however, not always impartially. It's really hard to imagine that in a scenario where there are thousands of scientific journals disputing among themselves a big market impartiality can be maintained systematically. The bias in scientific publications has a name: publication bias (1). It is often invoked when researchers from less important or peripheral centers can not reach the mainstream of academic publications almost exclusively based in developed countries. However, more subtle forms of "publication bias" are even more common, though less visible. Negative results, for example, rarely reach the top journals, as opposed to "revealing findings." The systematic failure to publish negative results seem to affect significantly, for example, the health sciences. Clinical studies showing results are easier to publish than those showing no effect of any treatment (2). Although such a complex phenomenon as publication bias is necessarily multifactorial and involves much more than the scientific journal editors, the latter are part of the "subjectivity" of peer-reviewed publications.
-
-> Another problem often pointed out is the lack of transparency in peer reviews. Usually, reviewers of scientific publications provide an *ad hoc* service and are not part of a body of consultant advisers. Moreover, their identities are usually unknown. There is, therefore, little guarantee that the chosen reviewers represent the field of the evaluated manuscript, let alone are well versed in that specific area of study. Furthermore, the peer review system is built to assess methodologically and scientifically the content of manuscripts, but not to detect fraud or misconduct. There are doubts and suspicions about the objectivity and honesty of each party involved in this process, both from the point of view of authors, and reviewers. Several proposals have been forwarded to try to remedy this problem (3).
-
-> The peer review model is economically dominated by publishers and journals that charge subscriptions and receive funding from government agencies and scientific societies (4). Almost all of the most important scientific journals are in developed countries and are published exclusively in English, also pointed out as a source of bias, affecting what and how they will publish. Publications in non-english national languages, even if they are among the most spoken in the world, are little read even in their countries of origin, in contrast to scientific publications in English. Although it makes sense for better international communication that there is a universal language, it imposes a necessary obstacle to scientists whose native language is not English. A recent alternative to the classical model of scientific publication by subscription is the [**open access**] (https://en.wikipedia.org/wiki/Open_access) model in which the publications are available for free on the Internet to be accessed and the cost of publishing is charged from authors or institutions. Scientific publication in Portuguese in Brazil, for example, is dominated by [Scielo] (http://www.scielo.org/php/level.php?lang=en&component=42&item=1), a repository of open access scientific publications, funded by Brazilian government agencies. The open access model has received constant criticism of interference in the objectivity of the review process because the authors and institutions pay for research publications. Recent attacks disclosed the fragility of the peer review process in the open access model (5).
-
-> Alternatives that do not involve financial dilemmas or barriers to science communication have been proposed. A set of disparate publication arrangements can be grouped on the label **green open access**, where publications are available free to the public on the Internet, but publishing costs are diluted because there is no journal vehicle, replaced by repositories where the authors themselves "publish" or deposit their work ([self-archiving] (https://en.wikipedia.org/wiki/Self-archiving)). These manuscripts (or other forms of academic work) are not peer-reviewed, nor pass the evaluation of an editorial board. Such repositories are mostly based in universities, although there are hybrid models where a company provides both open access services paid by the authors (also called **golden open access**) as well as a self-archiving repository. A number of different academic publishing types have emerged, with greater or lesser participation of mediators such as educational institutions, government and business. A popular scholarly publishing portal has as its motto: "credit all your research" and accepts submissions of any kind of academic material. Some internet services perform a general assessment to determine the quality of the material posted. Some services only publish the material after this evaluation. Other publish immediately any material deposited and only after perform an evaluation. This review differs from the editorial analysis of a scientific journal, being performed only to ensure the academic nature of the deposited material.
-
-> 1. Loureiro, Luiz Victor Maia, Callegaro Filho, Donato, Rocha, Altieres de Arruda, Prado, Bernard Lobato, Mutão, Taciana Sousa, Donnarumma, Carlos del Cistia, & Giglio, Auro del. (2013). Is there publication bias towards Brazilian articles on cancer?. Einstein (São Paulo), 11(1), 15-22. https://dx.doi.org/10.1590/S1679-45082013000100005
-2. Dickersin, K.; Chan, S.; Chalmers, T. C.; et al. (1987). "Publication bias and clinical trials". Controlled Clinical Trials 8 (4): 343–353. https://dx.doi.org/10.1016/0197-2456(87)90155-3
-3. Lee, K. & Bero, L. (2006). Increasing accountability. What authors, editors and reviewers should do to improve peer review. Nature https://doi.org/10.1038/nature05007
-4. Ware, M., & Mabe, M. (2015). The STM Report. http://www.stm-assoc.org/2015_02_20_STM_Report_2015.pdf
-5. Bohannon, John (2013). "Who's Afraid of Peer Review?". Science 342 (6154): 60–65. https://dx.doi.org/10.1126/science.342.6154.60
-
 ## Minhas publicações da via verde
 
-> ## My green open access publications
-
 #### Pôsteres publicados em repositórios acadêmicos:
-
-> #### Conference posters deposited in repositories:
 
 Magalhaes R, Felix J, Albuquerque J et al. Evaluation of the analgesic effect of venlafaxine, a serotonin and noradrenaline reuptake inhibitor [v1; not peer reviewed]. F1000Research 2015, 4:1259 (poster) https://doi.org/10.7490/f1000research.1110985.1
 
@@ -93,15 +71,11 @@ Felix F, Veras I, Nogueira C et al. Seizure prophylaxis with valproic acid in pe
 
 #### Pré-publicações:
 
-> #### Preprints:
-
 Sales M, Figueiredo KS, Fontenele JB, Viana GS, Felix FH. (2015) Sibutramine antinociceptive effect in female rodents is not dependent on catecholaminergic signaling. PeerJ PrePrints 3:e1544v2 https://doi.org/10.7287/peerj.preprints.1544v2
 
 Figueiredo KS, Sales ML, Fontenele JB, Viana GS, Felix FH. (2015) Valproate antinociceptive and anti-inflammatory effect in female rodents. PeerJ PrePrints 3:e1613v1 https://doi.org/10.7287/peerj.preprints.1613v1
 
 #### Apresentações acadêmicas (diapositivos):
-
-> #### Academic presentations (slides):
 
 Felix F. Management of infantile hemangiomas [v1; not peer reviewed]. F1000Research 2015, 4:1231 (slides) [Portuguese] https://dx.doi.org/10.7490/f1000research.1110958.1
 
@@ -115,14 +89,10 @@ https://dx.doi.org/10.6084/m9.figshare.2007543.v1
 
 #### Resumos publicados em anais de congressos e depositados em repositórios:
 
-> #### Abstracts published in proceedings and deposited in repositories:
-
 Felix, Francisco (2016): Wilms tumor with cardiac extension - case report. [portuguese]. figshare.
 https://dx.doi.org/10.6084/m9.figshare.2059830.v1
 
 #### Artigos publicados em jornais acadêmicos locais e depositados em repositórios:
-
-> #### Articles published in local academic journals and deposited in repositories:
 
 Bonavides de Castro, Patrícia; Santos Bruno, Débora; Rodrigues Filho, Filadelfo; Felix, Francisco; Roberto Lavor Porto, Paulo; Odorico de Moraes Filho, Manoel (2016): Evaluation of the Interference of Cyclosporin in the Development of Metastasis in a Low Malignant Murine Tumor [portuguese]. figshare. https://dx.doi.org/10.6084/m9.figshare.2059851.v1
 
@@ -131,15 +101,11 @@ https://dx.doi.org/10.6084/m9.figshare.2059821.v1
 
 #### Comentários autopublicados sobre artigos acadêmicos:
 
-> #### Selfpublished replies to academic publications:
-
 Felix, Francisco; Fontenele, Juvenia Bezerra (2016): Statin effect in fibromyalgia syndrome patients may not be easily predictable. figshare. https://dx.doi.org/10.6084/m9.figshare.3179281.v1
 
 Felix, Francisco; Fontenele, Juvenia Bezerra (2016): Side effects of propranolol used for the treatment of hemangiomas of infancy. figshare. https://dx.doi.org/10.6084/m9.figshare.3175576.v1
 
 #### Projetos aprovados em comitês de ética em pesquisa:
-
-> #### Research projects approved by institutional review boards:
 
 Felix, Francisco. (2016). Phase IIa (proof of concept) Trial of Valproic Acid with Chemotherapy and Radiotherapy for Patients with Diffuse Intrinsic Pontine Glioma in Childhood and Adolescence - VALQUIRIA. Zenodo. https://dx.doi.org/10.5281/zenodo.44888
 
@@ -157,27 +123,19 @@ Lima, Rayra A C et al.. (2016). Evaluation of adverse events of chemotherapy in 
 
 #### Manuscritos criados no [Authorea](authorea.com), integrados com o [Github](github.com) e depositados no [Zenodo](zenodo.org):
 
-> #### Manuscripts drafted in [Authorea](authorea.com), integrated with [Github](github.com) and deposited in [Zenodo](zenodo.org):
-
 Francisco H C Felix. (2016). Modelo de anteprojeto para relato de caso. Zenodo. https://dx.doi.org/10.5281/zenodo.49874
 
 #### Macros e programas depositados publicamente:
 
-> #### Macros and scripts deposited in public repositories:
-
 Francisco H C Felix. (2016). rapadura: ff macro para OOo. Zenodo. https://dx.doi.org/10.5281/zenodo.46239
 
 #### Comentários em Pubmed Commons (revisão pós-publicação):
-
-> #### Pubmed Commons comments (post-publication review):
 
 Felix, F. (2014). Comment on "The response and survival of children with recurrent diffuse intrinsic pontine glioma based on phase II study of antineoplastons A10 and AS2-1 in patients with brainstem glioma." By Burzynski et al. http://www.ncbi.nlm.nih.gov/pubmed/24718705#cm24718705_6838
 
 Felix, F. (2014). Comment on "Inadvertent high-dose therapy with temozolomide in a child with recurrent pontine glioma followed by a rapid clinical response but deteriorated after substitution with low-dose therapy." By Wang et al. http://www.ncbi.nlm.nih.gov/pubmed/24732058#cm24732058_7147
 
 #### Revisão pré-publicação (arbitragem):
-
-> #### Pre-publication review (refereeing):
 
 Francisco H C Felix. (2013). Pre-publication review of "Gajjar, S., Mazloom, A., Chintagumpala, M., Mahajan, A., C. Paulino, A. 2014. Secondary Glioblastoma Multiform in a Patient with CHARGE Syndrome and Prior Radiation Therapy for Medulloblastoma. Pediatric Hematology-Oncology, 31: 366". https://publons.com/review/227398/
 
@@ -191,4 +149,4 @@ Francisco H C Felix. (2009). Pre-publication review of "R. Meacham, L., A. Sklar
 
 Francisco H C Felix. (2009). Pre-publication review of "L. Cox, C., M. Hudson, M., Mertens, A., Oeffinger, K., Whitton, J., Montgomery, M., L. Robison, L. 2009. Medical Screening Participation in the Childhood Cancer Survivor Study. Archives of Internal Medicine, 169: 454". https://publons.com/review/227467/
 
-Citar esta página como (cite as): Francisco H C Felix. (2016). Alternative types of academic publications. Zenodo. 10.5281/zenodo.594582
+Citar esta página como: Francisco H C Felix. (2016). Alternative types of academic publications. Zenodo. 10.5281/zenodo.594582
