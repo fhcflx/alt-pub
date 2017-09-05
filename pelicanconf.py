@@ -69,7 +69,6 @@ PLUGINS = [
     # 'better_codeblock_line_numbering',
     # 'extract_toc',
     'i18n_subsites',
-    # 'render_math',
     # 'disqus_static',
     # 'better_figures_and_images'
     ]
