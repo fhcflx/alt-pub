@@ -69,7 +69,7 @@ PLUGINS = [
     # 'better_codeblock_line_numbering',
     # 'extract_toc',
     'i18n_subsites',
-    'disqus_static',
+    # 'disqus_static',
     # 'better_figures_and_images'
     ]
 MARKDOWN = {'extensions': ['codehilite','extra','smarty', 'toc']}
@@ -120,5 +120,4 @@ TAG_SAVE_AS = 'tag/{slug}.html'
 
 GOOGLE_ANALYTICS_UNIVERSAL = 'UA-79742963-2'
 GOOGLE_ANALYTICS_UNIVERSAL_PROPERTY = 'auto'
-
-DISQUS_SITENAME = 'publicacoes-academicas.disqus.com'
+DISQUS_SITENAME = "publicacoes-academicas"
