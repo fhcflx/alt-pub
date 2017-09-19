@@ -4,6 +4,7 @@ Category: Artigos
 Lang: pt
 Tags: pelican, gitlab, open access, green way
 Slug: alternative-types-of-academic-publication
+Comments: enabled
 
 <section class="main-content">
 
