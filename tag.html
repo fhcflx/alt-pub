@@ -151,11 +151,11 @@ Publicações acadêmicas            </a>
   </ul>
 </li>
 <!-- End Sidebar/Links -->
-<li class="list-group-item">
-  <a href=https://travis-ci.org/fhcflx/alt-pub>
-    <img alt='Build' src=https://img.shields.io/travis/fhcflx/alt-pub.svg?colorB=dd4814>
-  </a>
-</li>  </ul>
+<<<<<<< HEAD
+    [![Build](https://img.shields.io/travis/fhcflx/alt-pub.svg?colorB=dd4814)](https://travis-ci.org/fhcflx/alt-pub)
+=======
+>>>>>>> 12e1bb412c422033168c0f13170584374a9e3bf4
+  </ul>
 </section>
 <!-- End Sidebar -->            </aside>
         </div>
@@ -191,12 +191,13 @@ Publicações acadêmicas            </a>
         var disqus_shortname = 'publicacoes-academicas'; // required: replace example with your forum shortname
 
         /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() { // DON'T EDIT BELOW THIS LINE
-            var d = document, s = d.createElement('script');
-            s.src = 'https://publicacoes-academicas.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-        })();
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
     </script>
     <!-- End Disqus Code -->
     <!-- Google Analytics Universal -->
