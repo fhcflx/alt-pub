@@ -5,8 +5,9 @@ Lang: pt
 Tags: pelican, gitlab, open access, green way
 Slug: alternative-types-of-academic-publication
 
-[![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)
+[![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases?colorB=dd4814)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
+[![pdf](https://img.shields.io/github/badge/pdf-download-dd4814.svg)](https://fhcflx.github.io/alt-pub/content/docs/Felix_2017_alt-pub-pt.pdf)
 
 ## Introdução
 
