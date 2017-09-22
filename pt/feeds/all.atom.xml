@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Publicações acadêmicas - Artigos</title><link href="/alt-pub/" rel="alternate"></link><link href="/alt-pub/feeds/artigos.atom.xml" rel="self"></link><id>/alt-pub/</id><updated>2016-06-30T00:00:00-03:00</updated><entry><title>Modalidades alternativas de publicação acadêmica</title><link href="/alt-pub/alternative-types-of-academic-publication.html" rel="alternate"></link><published>2016-06-30T00:00:00-03:00</published><updated>2016-06-30T00:00:00-03:00</updated><author><name>Francisco H C Felix</name></author><id>tag:None,2016-06-30:/alt-pub/alternative-types-of-academic-publication.html</id><summary type="html">&lt;p&gt;&lt;a href="https://github.com/fhcflx/alt-pub/releases"&gt;&lt;img alt="GitHub release" src="https://img.shields.io/github/release/fhcflx/alt-pub.svg" /&gt;&lt;/a&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Publicações acadêmicas</title><link href="/alt-pub/pt/" rel="alternate"></link><link href="/alt-pub/feeds/all.atom.xml" rel="self"></link><id>/alt-pub/pt/</id><updated>2016-06-30T00:00:00-03:00</updated><entry><title>Modalidades alternativas de publicação acadêmica</title><link href="/alt-pub/pt/alternative-types-of-academic-publication.html" rel="alternate"></link><published>2016-06-30T00:00:00-03:00</published><updated>2016-06-30T00:00:00-03:00</updated><author><name>Francisco H C Felix</name></author><id>tag:None,2016-06-30:/alt-pub/pt/alternative-types-of-academic-publication.html</id><summary type="html">&lt;p&gt;&lt;a href="https://github.com/fhcflx/alt-pub/releases"&gt;&lt;img alt="GitHub release" src="https://img.shields.io/github/release/fhcflx/alt-pub.svg" /&gt;&lt;/a&gt;
 &lt;a href="http://dx.doi.org/10.5281/zenodo.594582"&gt;&lt;img alt="DOI" src="https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="introducao"&gt;Introdução&lt;/h2&gt;
 &lt;p&gt;Atualmente, o paradigma da publicação científica gira basicamente em torno de um modelo: o de publicações editoradas e &lt;a href="https://pt.wikipedia.org/wiki/Revis%C3%A3o_por_pares"&gt;&lt;strong&gt;revisadas por pares&lt;/strong&gt;&lt;/a&gt;. Dominado por algumas poucas empresas e instituições, este modelo baseia-se em periódicos científicos que publicam em meio impresso, na internet, ou ambos, trabalhos que passam por uma laboriosa …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://github.com/fhcflx/alt-pub/releases"&gt;&lt;img alt="GitHub release" src="https://img.shields.io/github/release/fhcflx/alt-pub.svg" /&gt;&lt;/a&gt;
@@ -16,7 +16,7 @@
 &lt;p&gt;Uma alternativa recente ao modelo clássico de publicação científica mediante assinaturas é o &lt;a href="https://pt.wikipedia.org/wiki/Acesso_aberto"&gt;&lt;strong&gt;acesso aberto&lt;/strong&gt;&lt;/a&gt;, ou &lt;em&gt;Via Dourada&lt;/em&gt;, modelo no qual as publicações estão disponíveis gratuitamente na internet para serem acessadas, e o custo de publicação é cobrado de autores ou instituições. A publicação científica em português no Brasil, por exemplo, é dominada pelos periódicos do &lt;a href="http://www.scielo.org/php/level.php?lang=pt&amp;amp;amp;component=56&amp;amp;amp;item=1"&gt;&lt;strong&gt;Scielo&lt;/strong&gt;&lt;/a&gt;, um repositório de publicações científicas de acesso aberto, financiado por agências governamentais brasileiras. O modelo de acesso aberto tem recebido críticas constantes sobre a interferência na objetividade do processo de revisão pelo fato dos autores e instituições que financiam as pesquisas pagarem as publicações. Ataques recentes mostraram a fragilidade do processo de revisão por pares no modelo de acesso aberto (10). No entanto, é o modelo de publicação acadêmica que mais cresce e todos os grandes grupos editoriais acadêmicos têm hoje sua seção de acesso aberto.&lt;/p&gt;
 &lt;p&gt;A sistemática de revisão e publicação em periódicos de acesso aberto é essencialmente a mesma que em jornais tradicionais: revisão por pares. Assim como no modelo tradicional, a qualidade das revisões é comumente criticada, e exemplos anedóticos de erros existem inúmeros (11). A proliferação de editoras e jornais de acesso aberto que publicam exclusivamente em mídia eletrônica (o que amplia consideravelmente a velocidade e capacidade de publicação) é apontada também como um fator de sobrecarga no sistema de revisão por pares, já fragilizado por críticas e dificuldade de encontrar revisores voluntários (11). Dessa forma, o acesso aberto tem uma imagem associada com uma revisão por pares algo mais frágil, talvez insuficiente. Objetivamente, não existe nenhuma comprovação deste tipo de idéia, principalmente porque as revisões ocorrem de maneira privada e não existe como quantificá-las ou qualificá-las, muito menos como comparar o modelo tradicional com o acesso aberto.&lt;/p&gt;
 &lt;p&gt;Do ponto de vista geográfico, ocorre com os periódicos de acesso aberto o inverso do que acontece no modelo tradicional. A maioria das publicações no acesso aberto vêm de países e instituições consideradas &lt;em&gt;periféricas&lt;/em&gt;, fora do &lt;em&gt;núcleo&lt;/em&gt; ou &lt;em&gt;corrente principal da ciência&lt;/em&gt;. Um detalhe aparentemente paradoxal, porém importante, é que pesquisadores de países da &lt;em&gt;periferia&lt;/em&gt; (por critérios do Banco Mundial), com renda &lt;em&gt;per capita&lt;/em&gt; inferior, têm a mesma propensão a pagar pelas publicações em acesso aberto quanto pesquisadores da &lt;em&gt;corrente principal&lt;/em&gt;, que costumam ter financiamento de pesquisa muito maior (2). Isso é visto por alguns como indicando a maior permissividade do sistema de publicação de acesso aberto. De fato, uma comparação mostrou que o jornal de acesso aberto &lt;em&gt;PLOS One&lt;/em&gt; aceitou 70% dos trabalhos submetidos em 2011, enquanto o jornal híbrido (publicação convencional ao lado de acesso aberto) &lt;em&gt;Physical Review Letters&lt;/em&gt; publicou menos de 35% no mesmo período e a revista tradicional &lt;em&gt;Nature&lt;/em&gt; publicou apenas 8% (12).&lt;/p&gt;
-&lt;p&gt;Uma crítica frequente ao modelo de acesso aberto é em relação aos valores cobrados de autores ou instituições para a publicação dos artigos. Os preços variam de US&lt;span class="math"&gt;\(399 (por autor) no periódico _PeerJ_ a US\)&lt;/span&gt;5000 (por artigo) na revista &lt;em&gt;Cell Reports&lt;/em&gt;. Em 2011, a indústria editorial acadêmica gerou 9.4 bilhões de dólares e publicou 1.8 milhão de artigos em inglês, a um custo médio de US&lt;span class="math"&gt;\(5000 por artigo. De acordo com análises, descontando a margem de lucro, o custo individual por artigo para as casas de publicação ficaria em torno de US\)&lt;/span&gt;2700. Para críticos, esse valor está artificialmente inflacionado e o custo, na verdade, pode ser muito menor. Isso explicaria porque uma empresa como a &lt;em&gt;PeerJ&lt;/em&gt; pode cobrar um valor dez vezes menor do que outras. Por outro lado, especialistas em publicação científica acreditam que a &lt;em&gt;PeerJ&lt;/em&gt; não terá condições de manter um negócio auto-sustentável e nem muito menos lucrativo (13).&lt;/p&gt;
+&lt;p&gt;Uma crítica frequente ao modelo de acesso aberto é em relação aos valores cobrados de autores ou instituições para a publicação dos artigos. Os preços variam de US&amp;#36;399 (por autor) no periódico &lt;em&gt;PeerJ&lt;/em&gt; a US&amp;#36;5000 (por artigo) na revista &lt;em&gt;Cell Reports&lt;/em&gt;. Em 2011, a indústria editorial acadêmica gerou 9.4 bilhões de dólares e publicou 1.8 milhão de artigos em inglês, a um custo médio de US&amp;#36;5000 por artigo. De acordo com análises, descontando a margem de lucro, o custo individual por artigo para as casas de publicação ficaria em torno de US&amp;#36;2700. Para críticos, esse valor está artificialmente inflacionado e o custo, na verdade, pode ser muito menor. Isso explicaria porque uma empresa como a &lt;em&gt;PeerJ&lt;/em&gt; pode cobrar um valor dez vezes menor do que outras. Por outro lado, especialistas em publicação científica acreditam que a &lt;em&gt;PeerJ&lt;/em&gt; não terá condições de manter um negócio auto-sustentável e nem muito menos lucrativo (13).&lt;/p&gt;
 &lt;h2 id="entra-a-via-verde"&gt;Entra a Via Verde&lt;/h2&gt;
 &lt;p&gt;Alternativas que não envolvem dilemas financeiros ou obstáculos à divulgação científica têm sido propostas cada vez mais frequentemente. Um conjunto de modalidades de publicação díspares pode ser agrupado no rótulo de &lt;strong&gt;Via Verde&lt;/strong&gt; do acesso aberto, onde as publicações ficam disponíveis gratuitamente ao público na internet, mas os custos de publicação são diluídos por não haver um veículo &amp;ldquo;periódico&amp;rdquo;, substituído por repositórios onde os próprios autores &amp;ldquo;publicam&amp;rdquo; ou depositam seu trabalho (&lt;a href="https://en.wikipedia.org/wiki/Self-archiving"&gt;&lt;strong&gt;auto-arquivamento&lt;/strong&gt;&lt;/a&gt;). Esses manuscritos (ou outras formas de trabalho acadêmico) não são revisadas por pares, nem passam pela avaliação de um corpo editorial. Tais repositórios são, em sua maioria, sediados em instituições universitárias, embora existam modelos híbridos onde uma empresa provê tanto serviços de acesso aberto pago pelos autores (também chamado de &lt;strong&gt;Via Dourada&lt;/strong&gt;), quanto um repositório de auto-arquivamento. Uma série de modalidades diferentes de publicação acadêmica tem surgido, com maior ou menor participação de mediadores como instituições educacionais, governo e empresas. Um portal popular de publicação acadêmica alternativa tem como lema: &amp;ldquo;obtenha crédito por toda a sua pesquisa&amp;rdquo; e aceita submissões de qualquer tipo de material acadêmico. Alguns serviços de internet que recebem material apresentado em conferências ou outras formas de divulgação de informação fazem uma avaliação geral para determinar a qualidade do material postado. Alguns serviços somente publicam &lt;em&gt;online&lt;/em&gt; o material após esta avaliação. Outros publicam de imediato qualquer material depositado e, somente após, realizam uma avaliação. Esta avaliação difere da análise editorial de um periódico científico, sendo realizada apenas para assegurar a natureza acadêmica do material depositado.&lt;/p&gt;
 &lt;p&gt;A proliferação recente de diversos canais diferentes que permitem a publicação de materiais acadêmicos não convencionalmente incluídos em publicações revisadas por pares mostra a força do fenômeno. Coletivamente, estes canais fazem parte do movimento da &lt;em&gt;Ciência Aberta&lt;/em&gt;, que busca &lt;em&gt;democratizar&lt;/em&gt; o acesso à informação acadêmica, reduzindo as barreiras à livre divulgação de idéias e resultados de pesquisas (14). A &lt;em&gt;Ciência Aberta&lt;/em&gt; pode ser vista, por sua vez, como parte de uma tendência político-acadêmica mais ampla, já denominada em certo momento de &lt;em&gt;Filosofia Aberta&lt;/em&gt;, que envolve uma forma de conhecer inovadora e também uma forma de interpretar essa nova forma de conhecer (14). Ainda um termo em evolução, a &lt;em&gt;Ciência Aberta&lt;/em&gt; tem raízes nos movimentos de &lt;em&gt;software livre&lt;/em&gt; e de &lt;em&gt;código aberto&lt;/em&gt; das Ciências da Informação e depende fortemente dos recentes avanços da internet e das mídias de comunicação. É considerada uma inovação &lt;em&gt;disruptiva&lt;/em&gt; no sentido em que tende a mudar definitivamente o modo como fazemos e disseminamos a ciência. A &lt;em&gt;Via Verde&lt;/em&gt; do acesso aberto tem o potencial de, ao contrário dos modelos mais disseminados hoje em dia, democratizar verdadeiramente o acesso à informação e subverter a dicotomia &lt;em&gt;centro-periferia&lt;/em&gt; que está no cerne do mundo acadêmico hoje em dia.&lt;/p&gt;
@@ -97,7 +97,7 @@ the Digital Era. PLoS One. 2015;10(6):e0127502. doi:
 &lt;p&gt;Kieńć, Witold. Authors from the periphery countries choose open access more often. Learned Publishing 2017;30.2: 125-131.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Guédon, J-C (2007). Open access and the divide between ‘mainstream’ and ‘peripheral’ science, in Ferreira, S, Mara SP &amp;amp; Targino, M das G (eds.), Como gerir e qualificar revistas científicas, http://eprints.rclis.org/10778/&lt;/p&gt;
+&lt;p&gt;Guédon, J-C (2007). Open access and the divide between ‘mainstream’ and ‘peripheral’ science, in Ferreira, S, Mara SP &amp;amp; Targino, M das G (eds.), Como gerir e qualificar revistas científicas, &lt;a href="http://eprints.rclis.org/10778/"&gt;http://eprints.rclis.org/10778/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Meriläinen, Susan, et al. &amp;ldquo;Hegemonic academic practices: experiences of publishing from the periphery.&amp;rdquo; Organization 2008; 15.4: 584-597.&lt;/p&gt;
@@ -132,59 +132,4 @@ the Digital Era. PLoS One. 2015;10(6):e0127502. doi:
 &lt;li&gt;
 &lt;p&gt;Pinheiro, LVR. Do acesso livre à ciência aberta: conceitos e implicações na comunicação científica. RECIIS – Rev. Eletron. de Comun. Inf. Inov. Saúde. 2014; 8(2): 153-165 &lt;a href="https://dx.doi.org/10.3395/reciis.v8i2.946.pt"&gt;doi:10.3395/reciis.v8i2.946.pt&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "left",
-        indent = "2em",
-        linebreak = "false";
-
-    if (true) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</content><category term="pelican"></category><category term="gitlab"></category><category term="open access"></category><category term="green way"></category></entry></feed>
+&lt;/ol&gt;</content><category term="pelican"></category><category term="gitlab"></category><category term="open access"></category><category term="green way"></category></entry></feed>
