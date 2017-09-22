@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Francisco H C Felix'
-SITENAME = u'Publicações acadêmicas'
+SITENAME = u'Academic publications'
 #SITEURL = 'http://fhcflx.github.io/alt-pub'
 
 PATH = 'content'
@@ -21,7 +21,7 @@ EXTRA_PATH_METADATA = {
 
 TIMEZONE = 'America/Fortaleza'
 
-DEFAULT_LANG = u'pt'
+DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -75,6 +75,12 @@ PLUGINS = [
 MARKDOWN = {'extensions': ['codehilite','extra','smarty', 'toc']}
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
+I18N_SUBSITES = {
+    'pt': {
+        'SITENAME': 'Publicações acadêmicas',
+        }
+    }
+
 # PLUGINS += ['subcategory']
 # CATEGORIES_SAVE_AS = 'categories.html'
 # CATEGORY_URL = 'category/{slug}.html'
@@ -96,9 +102,9 @@ PLUGINS += ['summary']
 SUMMARY_BEGIN_MARKER = '<!-- PELICAN_BEGIN_SUMMARY -->'
 SUMMARY_END_MARKER = '<!-- PELICAN_END_SUMMARY -->'
 
-# PLUGINS += ['tag_cloud']
-# TAG_CLOUD_STEPS = 5
-# TAG_CLOUD_BADGE = True
+PLUGINS += ['tag_cloud']
+TAG_CLOUD_STEPS = 5
+TAG_CLOUD_BADGE = True
 
 # PLUGINS += ['pelican_comment_system']
 # PELICAN_COMMENT_SYSTEM = True
@@ -120,4 +126,7 @@ TAG_SAVE_AS = 'tag/{slug}.html'
 
 GOOGLE_ANALYTICS_UNIVERSAL = 'UA-79742963-2'
 GOOGLE_ANALYTICS_UNIVERSAL_PROPERTY = 'auto'
+
 DISQUS_SITENAME = "publicacoes-academicas"
+DISQUS_NO_ID = True
+DISQUSURL = 'https://fhcflx.github.io/alt-pub'

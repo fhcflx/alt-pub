@@ -1,6 +1,6 @@
 Title: Modalidades alternativas de publicação acadêmica
 Date: 2016-06-30
-Category: Artigos
+Category: Ciência Aberta
 Lang: pt
 Tags: pelican, gitlab, open access, green way
 Slug: alternative-types-of-academic-publication
@@ -32,7 +32,7 @@ A sistemática de revisão e publicação em periódicos de acesso aberto é ess
 
 Do ponto de vista geográfico, ocorre com os periódicos de acesso aberto o inverso do que acontece no modelo tradicional. A maioria das publicações no acesso aberto vêm de países e instituições consideradas _periféricas_, fora do _núcleo_ ou _corrente principal da ciência_. Um detalhe aparentemente paradoxal, porém importante, é que pesquisadores de países da _periferia_ (por critérios do Banco Mundial), com renda _per capita_ inferior, têm a mesma propensão a pagar pelas publicações em acesso aberto quanto pesquisadores da _corrente principal_, que costumam ter financiamento de pesquisa muito maior (2). Isso é visto por alguns como indicando a maior permissividade do sistema de publicação de acesso aberto. De fato, uma comparação mostrou que o jornal de acesso aberto _PLOS One_ aceitou 70% dos trabalhos submetidos em 2011, enquanto o jornal híbrido (publicação convencional ao lado de acesso aberto) _Physical Review Letters_ publicou menos de 35% no mesmo período e a revista tradicional _Nature_ publicou apenas 8% (12).
 
-Uma crítica frequente ao modelo de acesso aberto é em relação aos valores cobrados de autores ou instituições para a publicação dos artigos. Os preços variam de US$399 (por autor) no periódico _PeerJ_ a US$5000 (por artigo) na revista _Cell Reports_. Em 2011, a indústria editorial acadêmica gerou 9.4 bilhões de dólares e publicou 1.8 milhão de artigos em inglês, a um custo médio de US$5000 por artigo. De acordo com análises, descontando a margem de lucro, o custo individual por artigo para as casas de publicação ficaria em torno de US$2700. Para críticos, esse valor está artificialmente inflacionado e o custo, na verdade, pode ser muito menor. Isso explicaria porque uma empresa como a _PeerJ_ pode cobrar um valor dez vezes menor do que outras. Por outro lado, especialistas em publicação científica acreditam que a _PeerJ_ não terá condições de manter um negócio auto-sustentável e nem muito menos lucrativo (13).
+Uma crítica frequente ao modelo de acesso aberto é em relação aos valores cobrados de autores ou instituições para a publicação dos artigos. Os preços variam de US&#36;399 (por autor) no periódico _PeerJ_ a US&#36;5000 (por artigo) na revista _Cell Reports_. Em 2011, a indústria editorial acadêmica gerou 9.4 bilhões de dólares e publicou 1.8 milhão de artigos em inglês, a um custo médio de US&#36;5000 por artigo. De acordo com análises, descontando a margem de lucro, o custo individual por artigo para as casas de publicação ficaria em torno de US&#36;2700. Para críticos, esse valor está artificialmente inflacionado e o custo, na verdade, pode ser muito menor. Isso explicaria porque uma empresa como a _PeerJ_ pode cobrar um valor dez vezes menor do que outras. Por outro lado, especialistas em publicação científica acreditam que a _PeerJ_ não terá condições de manter um negócio auto-sustentável e nem muito menos lucrativo (13).
 
 ## Entra a Via Verde
 
@@ -177,7 +177,7 @@ the Digital Era. PLoS One. 2015;10(6):e0127502. doi:
 
 2. Kieńć, Witold. Authors from the periphery countries choose open access more often. Learned Publishing 2017;30.2: 125-131.
 
-3. Guédon, J-C (2007). Open access and the divide between ‘mainstream’ and ‘peripheral’ science, in Ferreira, S, Mara SP & Targino, M das G (eds.), Como gerir e qualificar revistas científicas, http://eprints.rclis.org/10778/
+3. Guédon, J-C (2007). Open access and the divide between ‘mainstream’ and ‘peripheral’ science, in Ferreira, S, Mara SP & Targino, M das G (eds.), Como gerir e qualificar revistas científicas, [http://eprints.rclis.org/10778/](http://eprints.rclis.org/10778/)
 
 4. Meriläinen, Susan, et al. "Hegemonic academic practices: experiences of publishing from the periphery." Organization 2008; 15.4: 584-597.
 
