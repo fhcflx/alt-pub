@@ -5,6 +5,8 @@ Lang: pt
 Tags: pelican, gitlab, open access, green way
 Slug: alternative-types-of-academic-publication
 
+[![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
 
 ## Introdução
 
@@ -24,11 +26,21 @@ O modelo de revisão por pares é economicamente dominado por editoras e jornais
 
 ## Acesso aberto
 
-Uma alternativa recente ao modelo clássico de publicação científica mediante assinaturas é o [**acesso aberto**](https://pt.wikipedia.org/wiki/Acesso_aberto), modelo no qual as publicações estão disponíveis gratuitamente na internet para serem acessadas, e o custo de publicação é cobrado de autores ou instituições. A publicação científica em português no Brasil, por exemplo, é dominada pelos periódicos do [**Scielo**](http://www.scielo.org/php/level.php?lang=pt&amp;component=56&amp;item=1), um repositório de publicações científicas de acesso aberto, financiado por agências governamentais brasileiras. O modelo de acesso aberto tem recebido críticas constantes sobre a interferência na objetividade do processo de revisão pelo fato dos autores e instituições que financiam as pesquisas pagarem as publicações. Ataques recentes mostraram a fragilidade do processo de revisão por pares no modelo de acesso aberto (10).
+Uma alternativa recente ao modelo clássico de publicação científica mediante assinaturas é o [**acesso aberto**](https://pt.wikipedia.org/wiki/Acesso_aberto), ou _Via Dourada_, modelo no qual as publicações estão disponíveis gratuitamente na internet para serem acessadas, e o custo de publicação é cobrado de autores ou instituições. A publicação científica em português no Brasil, por exemplo, é dominada pelos periódicos do [**Scielo**](http://www.scielo.org/php/level.php?lang=pt&amp;component=56&amp;item=1), um repositório de publicações científicas de acesso aberto, financiado por agências governamentais brasileiras. O modelo de acesso aberto tem recebido críticas constantes sobre a interferência na objetividade do processo de revisão pelo fato dos autores e instituições que financiam as pesquisas pagarem as publicações. Ataques recentes mostraram a fragilidade do processo de revisão por pares no modelo de acesso aberto (10). No entanto, é o modelo de publicação acadêmica que mais cresce e todos os grandes grupos editoriais acadêmicos têm hoje sua seção de acesso aberto.
+
+A sistemática de revisão e publicação em periódicos de acesso aberto é essencialmente a mesma que em jornais tradicionais: revisão por pares. Assim como no modelo tradicional, a qualidade das revisões é comumente criticada, e exemplos anedóticos de erros existem inúmeros (11). A proliferação de editoras e jornais de acesso aberto que publicam exclusivamente em mídia eletrônica (o que amplia consideravelmente a velocidade e capacidade de publicação) é apontada também como um fator de sobrecarga no sistema de revisão por pares, já fragilizado por críticas e dificuldade de encontrar revisores voluntários (11). Dessa forma, o acesso aberto tem uma imagem associada com uma revisão por pares algo mais frágil, talvez insuficiente. Objetivamente, não existe nenhuma comprovação deste tipo de idéia, principalmente porque as revisões ocorrem de maneira privada e não existe como quantificá-las ou qualificá-las, muito menos como comparar o modelo tradicional com o acesso aberto.
+
+Do ponto de vista geográfico, ocorre com os periódicos de acesso aberto o inverso do que acontece no modelo tradicional. A maioria das publicações no acesso aberto vêm de países e instituições consideradas _periféricas_, fora do _núcleo_ ou _corrente principal da ciência_. Um detalhe aparentemente paradoxal, porém importante, é que pesquisadores de países da _periferia_ (por critérios do Banco Mundial), com renda _per capita_ inferior, têm a mesma propensão a pagar pelas publicações em acesso aberto quanto pesquisadores da _corrente principal_, que costumam ter financiamento de pesquisa muito maior (2). Isso é visto por alguns como indicando a maior permissividade do sistema de publicação de acesso aberto. De fato, uma comparação mostrou que o jornal de acesso aberto _PLOS One_ aceitou 70% dos trabalhos submetidos em 2011, enquanto o jornal híbrido (publicação convencional ao lado de acesso aberto) _Physical Review Letters_ publicou menos de 35% no mesmo período e a revista tradicional _Nature_ publicou apenas 8% (12).
+
+Uma crítica frequente ao modelo de acesso aberto é em relação aos valores cobrados de autores ou instituições para a publicação dos artigos. Os preços variam de US$399 (por autor) no periódico _PeerJ_ a US$5000 (por artigo) na revista _Cell Reports_. Em 2011, a indústria editorial acadêmica gerou 9.4 bilhões de dólares e publicou 1.8 milhão de artigos em inglês, a um custo médio de US$5000 por artigo. De acordo com análises, descontando a margem de lucro, o custo individual por artigo para as casas de publicação ficaria em torno de US$2700. Para críticos, esse valor está artificialmente inflacionado e o custo, na verdade, pode ser muito menor. Isso explicaria porque uma empresa como a _PeerJ_ pode cobrar um valor dez vezes menor do que outras. Por outro lado, especialistas em publicação científica acreditam que a _PeerJ_ não terá condições de manter um negócio auto-sustentável e nem muito menos lucrativo (13).
+
+## Entra a Via Verde
 
 Alternativas que não envolvem dilemas financeiros ou obstáculos à divulgação científica têm sido propostas cada vez mais frequentemente. Um conjunto de modalidades de publicação díspares pode ser agrupado no rótulo de **Via Verde** do acesso aberto, onde as publicações ficam disponíveis gratuitamente ao público na internet, mas os custos de publicação são diluídos por não haver um veículo "periódico", substituído por repositórios onde os próprios autores "publicam" ou depositam seu trabalho ([**auto-arquivamento**](https://en.wikipedia.org/wiki/Self-archiving)). Esses manuscritos (ou outras formas de trabalho acadêmico) não são revisadas por pares, nem passam pela avaliação de um corpo editorial. Tais repositórios são, em sua maioria, sediados em instituições universitárias, embora existam modelos híbridos onde uma empresa provê tanto serviços de acesso aberto pago pelos autores (também chamado de **Via Dourada**), quanto um repositório de auto-arquivamento. Uma série de modalidades diferentes de publicação acadêmica tem surgido, com maior ou menor participação de mediadores como instituições educacionais, governo e empresas. Um portal popular de publicação acadêmica alternativa tem como lema: "obtenha crédito por toda a sua pesquisa" e aceita submissões de qualquer tipo de material acadêmico. Alguns serviços de internet que recebem material apresentado em conferências ou outras formas de divulgação de informação fazem uma avaliação geral para determinar a qualidade do material postado. Alguns serviços somente publicam _online_ o material após esta avaliação. Outros publicam de imediato qualquer material depositado e, somente após, realizam uma avaliação. Esta avaliação difere da análise editorial de um periódico científico, sendo realizada apenas para assegurar a natureza acadêmica do material depositado.
 
-A proliferação recente de diversos canais diferentes que permitem a publicação de materiais acadêmicos não convencionalmente incluídos em publicações revisadas por pares mostra a força do fenômeno.
+A proliferação recente de diversos canais diferentes que permitem a publicação de materiais acadêmicos não convencionalmente incluídos em publicações revisadas por pares mostra a força do fenômeno. Coletivamente, estes canais fazem parte do movimento da _Ciência Aberta_, que busca _democratizar_ o acesso à informação acadêmica, reduzindo as barreiras à livre divulgação de idéias e resultados de pesquisas (14). A _Ciência Aberta_ pode ser vista, por sua vez, como parte de uma tendência político-acadêmica mais ampla, já denominada em certo momento de _Filosofia Aberta_, que envolve uma forma de conhecer inovadora e também uma forma de interpretar essa nova forma de conhecer (14). Ainda um termo em evolução, a _Ciência Aberta_ tem raízes nos movimentos de _software livre_ e de _código aberto_ das Ciências da Informação e depende fortemente dos recentes avanços da internet e das mídias de comunicação. É considerada uma inovação _disruptiva_ no sentido em que tende a mudar definitivamente o modo como fazemos e disseminamos a ciência. A _Via Verde_ do acesso aberto tem o potencial de, ao contrário dos modelos mais disseminados hoje em dia, democratizar verdadeiramente o acesso à informação e subverter a dicotomia _centro-periferia_ que está no cerne do mundo acadêmico hoje em dia.
+
+Nas próximas seções, listo várias formas diferentes de publicação de material acadêmico fora do modelo tradicional e igualmente fora da _Via Dourada_ do acesso aberto.
 
 ## Publicações da via verde</h2>
 
@@ -160,25 +172,31 @@ Citar esta página como: Francisco H C Felix. (2016). Alternative types of acade
 ## Referências:
 
 1. Larivière V, Haustein S, Mongeon P. The Oligopoly of Academic Publishers in
-the Digital Era. PLoS One. 2015 Jun 10;10(6):e0127502. doi:
+the Digital Era. PLoS One. 2015;10(6):e0127502. doi:
 [10.1371/journal.pone.0127502](https://doi.org/10.1371/journal.pone.0127502).
 
-2. Kieńć, Witold. "Authors from the periphery countries choose open access more often." Learned Publishing 30.2 (2017): 125-131.
+2. Kieńć, Witold. Authors from the periphery countries choose open access more often. Learned Publishing 2017;30.2: 125-131.
 
 3. Guédon, J-C (2007). Open access and the divide between ‘mainstream’ and ‘peripheral’ science, in Ferreira, S, Mara SP & Targino, M das G (eds.), Como gerir e qualificar revistas científicas, http://eprints.rclis.org/10778/
 
-4. Meriläinen, Susan, et al. "Hegemonic academic practices: experiences of publishing from the periphery." Organization 15.4 (2008): 584-597.
+4. Meriläinen, Susan, et al. "Hegemonic academic practices: experiences of publishing from the periphery." Organization 2008; 15.4: 584-597.
 
-5. Rodrigo V. Cardoso & Evert J. Meijers (2016) Contrasts between first-tierand second-tier cities in Europe: a functional perspective, European Planning Studies, 24:5,996-1015, DOI: [10.1080/09654313.2015.112070](https://www.researchgate.net/publication/284730738_Contrasts_between_First-tier_and_Second-tier_Cities_in_Europe_a_functional_perspective) [accessed Sep 21, 2017].
+5. Cardoso, RV & Meijers, EJ. Contrasts between first-tierand second-tier cities in Europe: a functional perspective, European Planning Studies, 2016; 24:5,996-1015, DOI: [10.1080/09654313.2015.112070](https://www.researchgate.net/publication/284730738_Contrasts_between_First-tier_and_Second-tier_Cities_in_Europe_a_functional_perspective) [accessed Sep 21, 2017].
 
-6. Loureiro, Luiz Victor Maia, Callegaro Filho, Donato, Rocha, Altieres de Arruda, Prado, Bernard Lobato, Mutão, Taciana Sousa, Donnarumma, Carlos del Cistia, &amp; Giglio, Auro del. (2013). Existe viés de publicação para artigos brasileiros sobre câncer?. Einstein (São Paulo), 11(1), 15-22. <a href="https://dx.doi.org/10.1590/S1679-45082013000100005">https://dx.doi.org/10.1590/S1679-45082013000100005</a>
+6. Loureiro, Luiz Victor Maia, Callegaro Filho, Donato, Rocha, Altieres de Arruda, Prado, Bernard Lobato, Mutão, Taciana Sousa, Donnarumma, Carlos del Cistia, &amp; Giglio, Auro del. Existe viés de publicação para artigos brasileiros sobre câncer?. Einstein (São Paulo), 2013; 11(1), 15-22. <a href="https://dx.doi.org/10.1590/S1679-45082013000100005">https://dx.doi.org/10.1590/S1679-45082013000100005</a>
 
-7. Dickersin, K.; Chan, S.; Chalmers, T. C.; et al. (1987). "Publication bias and clinical trials". Controlled Clinical Trials 8 (4): 343–353. <a href="https://dx.doi.org/10.1016/0197-2456(87)90155-3">https://dx.doi.org/10.1016/0197-2456(87)90155-3</a>
+7. Dickersin, K.; Chan, S.; Chalmers, T. C.; et al. "Publication bias and clinical trials". Controlled Clinical Trials 1987; 8 (4): 343–353. <a href="https://dx.doi.org/10.1016/0197-2456(87)90155-3">https://dx.doi.org/10.1016/0197-2456(87)90155-3</a>
 
-8. Lee, K. &amp; Bero, L. (2006). Increasing accountability. What authors, editors and reviewers should do to improve peer review. Nature <a href="https://doi.org/10.1038/nature05007">https://doi.org/10.1038/nature05007</a>
+8. Lee, K. &amp; Bero, L. Increasing accountability. What authors, editors and reviewers should do to improve peer review. Nature 2006 <a href="https://doi.org/10.1038/nature05007">https://doi.org/10.1038/nature05007</a>
 
 9. Ware, M., &amp; Mabe, M. (2015). The STM Report. <a href="http://www.stm-assoc.org/2015_02_20_STM_Report_2015.pdf">http://www.stm-assoc.org/2015_02_20_STM_Report_2015.pdf</a>
 
-10. Bohannon, John (2013). "Who's Afraid of Peer Review?". Science 342 (6154): 60–65. <a href="https://dx.doi.org/10.1126/science.342.6154.60">https://dx.doi.org/10.1126/science.342.6154.60</a>
+10. Bohannon, John. "Who's Afraid of Peer Review?". Science 2013; 342 (6154): 60–65. <a href="https://dx.doi.org/10.1126/science.342.6154.60">https://dx.doi.org/10.1126/science.342.6154.60</a>
 
-<a href="http://dx.doi.org/10.5281/zenodo.50619"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.50619.svg" alt="10.5281/zenodo.50619"></a>
+11. Arns, M. Open access is tiring out peer reviewers. Nature 2014; 515, 467 [doi:10.1038/515467a](https://doi.org/doi:10.1038/515467a)
+
+12. Van Noorden, R. Open access: The true cost of science publishing. Nature 2013; 495, 426–429 [doi:10.1038/495426a](https://dx.doi.org/10.1038/495426a)
+
+13. Davis, P. PeerJ Membership Model and The Paradox Of The Loyal Customer. [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2017/05/08/peerj-membership-model-paradox-loyal-customer/), acessado em 21/09/2017.
+
+14. Pinheiro, LVR. Do acesso livre à ciência aberta: conceitos e implicações na comunicação científica. RECIIS – Rev. Eletron. de Comun. Inf. Inov. Saúde. 2014; 8(2): 153-165 [doi:10.3395/reciis.v8i2.946.pt](https://dx.doi.org/10.3395/reciis.v8i2.946.pt)
