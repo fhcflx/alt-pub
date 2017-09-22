@@ -7,7 +7,7 @@ Slug: alternative-types-of-academic-publication-en
 
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
-[![pdf](https://img.shields.io/github/badge/pdf-download-dd4814.svg)](https://fhcflx.github.io/alt-pub/content/docs/Felix_2017_alt-pub-en.pdf)
+[![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2016_alt-pub-en.pdf?raw=True)
 
 ## Introduction
 
