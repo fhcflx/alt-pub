@@ -13,7 +13,7 @@ Slug: about
 
 # Alternative types of academic publications.
 
-## What it is::
+## What it is:
 
 Project for dissemination of academic alternative formats. Aimed at the diffusion of the idea of ​​[open publication](https://pt.wikiversity.org/wiki/Manual_para_publicação_aberta_de_pesquisas), or _open access publication_, a branch of [open science](https://en.wikipedia.org/wiki/Open_science), a multidisciplinary movement that seeks to modify the paradigm of knowledge production that centralizes and prevents its spread. Historically, Western tradition has become firmly rooted in the free dissemination of knowledge among peers. However, the concentration of investment in research, channels of publication and creative capacity around _closed_ institutions of production and publication of knowledge interrupted this tradition on a large scale. Diverse movements inspired by the concepts of [free software](https://en.wikipedia.org/wiki/Free_software) and [open source](https://en.wikipedia.org/wiki/Open-source_model) have joined the still evolving concept of **open science**.
 
