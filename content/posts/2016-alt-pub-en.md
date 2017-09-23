@@ -1,13 +1,10 @@
-Title: Alternative types of academic publications
-Date: 2016-06-30
-Category: Open Science
-Lang: en
-Tags: pelican, gitlab, open access, green way
-Slug: alternative-types-of-academic-publication-en
+# Alternative types of academic publications
+## Francisco H. C. Felix
 
-[![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.594582.svg)](http://dx.doi.org/10.5281/zenodo.594582)
-[![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2016_alt-pub-en.pdf?raw=True)
+### Academic publications, v1.0.4
+Date: 2016-06-30 (last version 2017-09-22)
+
+#### Keywords: pelican, gitlab, open access, green way
 
 ## Introduction
 
@@ -51,41 +48,42 @@ This listing brings a non-exhaustive set of alternative academic publication for
 
 Magalhaes R, Felix J, Albuquerque J et al. Evaluation of the analgesic effect of venlafaxine, a serotonin and noradrenaline reuptake inhibitor [v1; not peer reviewed]. F1000Research 2015, 4:1259 (poster) [doi:10.7490/f1000research.1110985.1](https://doi.org/10.7490/f1000research.1110985.1)
 
-Fontenele J, Freire P, Santos K et al. Focal brainstem tumors: report of patients treated in a brazilian pediatric oncological center [v1; not peer reviewed]. F1000Research 2015, 4:1363 (poster) [Portuguese] [doi:10.7490/f1000research.1111076.1](https://doi.org/10.7490/f1000research.1111076.1)
+Fontenele J, Freire P, Santos K et al. Focal brainstem tumors: report of patients treated in a brazilian pediatric oncological center [v1; not peer reviewed]. F1000Research 2015, 4:1363 (poster) (Portuguese) [doi:10.7490/f1000research.1111076.1](https://doi.org/10.7490/f1000research.1111076.1)
 
-Felix F, Santos K, Freire P et al. Diffuse intrinsic pontine gliomas: report of patients treated in a brazilian pediatric oncological center [v1; not peer reviewed]. F1000Research 2015, 4:1362 (poster) [Portuguese] [doi:10.7490/f1000research.1111075.1](https://doi.org/10.7490/f1000research.1111075.1)
+Felix F, Santos K, Freire P et al. Diffuse intrinsic pontine gliomas: report of patients treated in a brazilian pediatric oncological center [v1; not peer reviewed]. F1000Research 2015, 4:1362 (poster) (Portuguese) [doi:10.7490/f1000research.1111075.1](https://doi.org/10.7490/f1000research.1111075.1)
 
-Santos K, Lima R, Bastos MV et al. Retrospective evaluation of patients with recurrent brain tumors treated with vinblastine or temozolomide at the Albert Sabin Children's Hospital between 2007-2012 [v1; not peer reviewed]. F1000Research 2015, 4:1256 (poster) [Portuguese] [doi:10.7490/f1000research.1110982.1](https://doi.org/10.7490/f1000research.1110982.1)
+Santos K, Lima R, Bastos MV et al. Retrospective evaluation of patients with recurrent brain tumors treated with vinblastine or temozolomide at the Albert Sabin Children's Hospital between 2007-2012 [v1; not peer reviewed]. F1000Research 2015, 4:1256 (poster) (Portuguese) [doi:10.7490/f1000research.1110982.1](https://doi.org/10.7490/f1000research.1110982.1)
 
-Felix F, Feitosa M, Bezerra MdC et al. Undifferentiated intracardiac tumor [v1; not peer reviewed]. F1000Research 2015, 4:1358 (poster) [Portuguese] [doi:f1000research.1111073.1](https://doi.org/10.7490/f1000research.1111073.1)
+Felix F, Feitosa M, Bezerra MdC et al. Undifferentiated intracardiac tumor [v1; not peer reviewed]. F1000Research 2015, 4:1358 (poster) (Portuguese) [doi:f1000research.1111073.1](https://doi.org/10.7490/f1000research.1111073.1)
 
 Felix F, Freire P, Santos K and Fontenele J. Predictors of survival in children with ependymoma from a single center: using random survival forests [v1; not peer reviewed]. F1000Research 2015, 4:1209 (poster) [doi:10.7490/f1000research.1110937.1](https://doi.org/10.7490/f1000research.1110937.1)
 
-Felix F, Mattos JP, Hirth C and Fontenele J. Everolimus for patients with tumors associated with tuberous sclerosis and neurofibromatosis [v1; not peer reviewed]. F1000Research 2015, 4:1357 (poster) [Portuguese] [doi:10.7490/f1000research.1111072.1](https://doi.org/10.7490/f1000research.1111072.1)
+Felix F, Mattos JP, Hirth C and Fontenele J. Everolimus for patients with tumors associated with tuberous sclerosis and neurofibromatosis [v1; not peer reviewed]. F1000Research 2015, 4:1357 (poster) (Portuguese) [doi:10.7490/f1000research.1111072.1](https://doi.org/10.7490/f1000research.1111072.1)
 
-Alves N, Aquino R, Veras I and Felix F. A case of medulloblastoma with late neurologic deterioration [v1; not peer reviewed]. F1000Research 2015, 4:1343 (poster) [Portuguese] [doi:10.7490/f1000research.1111060.1](https://doi.org/10.7490/f1000research.1111060.1)
+Alves N, Aquino R, Veras I and Felix F. A case of medulloblastoma with late neurologic deterioration [v1; not peer reviewed]. F1000Research 2015, 4:1343 (poster) (Portuguese) [doi:10.7490/f1000research.1111060.1](https://doi.org/10.7490/f1000research.1111060.1)
 
-Felix F, Veras I, Nogueira C and Juvenia F. Nimotuzumab in a case of recurrent glioblastoma expressing a new EGFR mutation [v1; not peer reviewed]. F1000Research 2015, 4:1303 (poster) [Portuguese] [doi:10.7490/f1000research.1111020.1](https://doi.org/10.7490/f1000research.1111020.1)
+Felix F, Veras I, Nogueira C and Juvenia F. Nimotuzumab in a case of recurrent glioblastoma expressing a new EGFR mutation [v1; not peer reviewed]. F1000Research 2015, 4:1303 (poster) (Portuguese)
+[doi:10.7490/f1000research.1111020.1](https://doi.org/10.7490/f1000research.1111020.1)
 
 Felix F, Veras I, Bacalhau AF and Fontenele J. Nimotuzumab in patients with progressive diffuse intrinsic pontine glioma [v1; not peer reviewed]. F1000Research 2015, 4:1302 (poster) [doi:10.7490/f1000research.1111019.1](https://doi.org/10.7490/f1000research.1111019.1)
 
-Felix F and Fontenele J. Chemoradiotherapy with etoposide, cisplatin, and ifosfamide associated with valproic acid for patients with diffuse intrinsic pontine glioma [v1; not peer reviewed]. F1000Research 2015, 4:1301 (poster) [Portuguese] [doi:10.7490/f1000research.1111018.1](https://doi.org/10.7490/f1000research.1111018.1)
+Felix F and Fontenele J. Chemoradiotherapy with etoposide, cisplatin, and ifosfamide associated with valproic acid for patients with diffuse intrinsic pontine glioma [v1; not peer reviewed]. F1000Research 2015, 4:1301 (poster) (Portuguese) [doi:10.7490/f1000research.1111018.1](https://doi.org/10.7490/f1000research.1111018.1)
 
-Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with recurrent brain tumors with vinblastine [v1; not peer reviewed]. F1000Research 2015, 4:1300 (poster) [Portuguese] [doi:10.7490/f1000research.1111017.1](https://doi.org/10.7490/f1000research.1111017.1)
+Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with recurrent brain tumors with vinblastine [v1; not peer reviewed]. F1000Research 2015, 4:1300 (poster) (Portuguese) [doi:10.7490/f1000research.1111017.1](https://doi.org/10.7490/f1000research.1111017.1)
 
-Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with multiply recurrent brain tumors with temozolomide and valproic acid [v1; not peer reviewed]. F1000Research 2015, 4:1299 (poster) [Portuguese] [doi:10.7490/f1000research.1111016.1](https://doi.org/10.7490/f1000research.1111016.1)
+Felix F, Araújo O, Trompieri N et al. Treatment of pediatric patients with multiply recurrent brain tumors with temozolomide and valproic acid [v1; not peer reviewed]. F1000Research 2015, 4:1299 (poster) (Portuguese) [doi:10.7490/f1000research.1111016.1](https://doi.org/10.7490/f1000research.1111016.1)
 
-Barcelos P, Trindade V, Aguiar L et al. Ewing sarcoma in the skull of an infant: case report [v1; not peer reviewed]. F1000Research 2015, 4:1258 (poster) [Portuguese] [doi:10.7490/f1000research.1110984.1](https://doi.org/10.7490/f1000research.1110984.1)
+Barcelos P, Trindade V, Aguiar L et al. Ewing sarcoma in the skull of an infant: case report [v1; not peer reviewed]. F1000Research 2015, 4:1258 (poster) (Portuguese) [doi:10.7490/f1000research.1110984.1](https://doi.org/10.7490/f1000research.1110984.1)
 
-Trindade V, Barcelos P, Aguiar L et al. Intramedullary granulocytic sarcoma [v1; not peer reviewed]. F1000Research 2015, 4:1257 (poster) [Portuguese] [doi:10.7490/f1000research.1110983.1](https://doi.org/10.7490/f1000research.1110983.1)
+Trindade V, Barcelos P, Aguiar L et al. Intramedullary granulocytic sarcoma [v1; not peer reviewed]. F1000Research 2015, 4:1257 (poster) (Portuguese) [doi:10.7490/f1000research.1110983.1](https://doi.org/10.7490/f1000research.1110983.1)
 
-Freire P, Felix F, Santos K et al. Descriptive longitudinal study of pediatric patients with primary brain tumors: establishment of a hospital registry [v1; not peer reviewed]. F1000Research 2015, 4:1370 (poster) [Portuguese] [doi:10.7490/f1000research.1111083.1](https://doi.org/10.7490/f1000research.1111083.1)
+Freire P, Felix F, Santos K et al. Descriptive longitudinal study of pediatric patients with primary brain tumors: establishment of a hospital registry [v1; not peer reviewed]. F1000Research 2015, 4:1370 (poster) (Portuguese) [doi:10.7490/f1000research.1111083.1](https://doi.org/10.7490/f1000research.1111083.1)
 
-Felix F, Azevedo JR, Feitosa M et al. Childhood pleuropulmonary blastoma [v1; not peer reviewed]. F1000Research 2015, 4:1304 (poster) [Portuguese] [doi:10.7490/f1000research.1111021.1](https://doi.org/10.7490/f1000research.1111021.1)
+Felix F, Azevedo JR, Feitosa M et al. Childhood pleuropulmonary blastoma [v1; not peer reviewed]. F1000Research 2015, 4:1304 (poster) (Portuguese) [doi:10.7490/f1000research.1111021.1](https://doi.org/10.7490/f1000research.1111021.1)
 
-Felix F, Albuquerque J and Fontenele J. Subependymal Giant Cell Astrocytoma with good response to oral everolimus – a case report [v1; not peer reviewed]. F1000Research 2015, 4:1233 (poster) [Portuguese] [doi:10.7490/f1000research.1110960.1](https://doi.org/10.7490/f1000research.1110960.1)
+Felix F, Albuquerque J and Fontenele J. Subependymal Giant Cell Astrocytoma with good response to oral everolimus – a case report [v1; not peer reviewed]. F1000Research 2015, 4:1233 (poster) (Portuguese) [doi:10.7490/f1000research.1110960.1](https://doi.org/10.7490/f1000research.1110960.1)
 
-Felix F, Albuquerque J and Fontenele J. Survival analysis ​of pediatric patients with brain tumors using a machine learning method: decision tree analysis by recursive partitioning [v1; not peer reviewed]. F1000Research 2015, 4:1223 (poster) [Portuguese] [doi:10.7490/f1000research.1110950.1](https://doi.org/10.7490/f1000research.1110950.1)
+Felix F, Albuquerque J and Fontenele J. Survival analysis ​of pediatric patients with brain tumors using a machine learning method: decision tree analysis by recursive partitioning [v1; not peer reviewed]. F1000Research 2015, 4:1223 (poster) (Portuguese) [doi:10.7490/f1000research.1110950.1](https://doi.org/10.7490/f1000research.1110950.1)
 
 Felix F, Veras I, Nogueira C et al. Seizure prophylaxis with valproic acid in pediatric patients with brain tumors [v1; not peer reviewed]. F1000Research 2015, 4:1210 (poster) [doi:10.7490/f1000research.1110938.1](https://doi.org/10.7490/f1000research.1110938.1)
 
@@ -97,9 +95,10 @@ Figueiredo KS, Sales ML, Fontenele JB, Viana GS, Felix FH. (2015) Valproate anti
 
 ### Academic presentations (slides):
 
-Felix F. Management of infantile hemangiomas [v1; not peer reviewed]. F1000Research 2015, 4:1231 (slides) [Portuguese] [doi:10.7490/f1000research.1110958.1](https://dx.doi.org/10.7490/f1000research.1110958.1)
+Felix F. Management of infantile hemangiomas [v1; not peer reviewed]. F1000Research 2015, 4:1231 (slides) (Portuguese) 
+[doi:10.7490/f1000research.1110958.1](https://dx.doi.org/10.7490/f1000research.1110958.1)
 
-Albuquerque J, Fontenele J and Felix F. Propranolol treatment for children with hemangiomas – final report [v1; not peer reviewed]. F1000Research 2015, 4:1232 (slides) [Portuguese] [doi:10.7490/f1000research.1110959.1](https://dx.doi.org/10.7490/f1000research.1110959.1)
+Albuquerque J, Fontenele J and Felix F. Propranolol treatment for children with hemangiomas – final report [v1; not peer reviewed]. F1000Research 2015, 4:1232 (slides) (Portuguese) [doi:10.7490/f1000research.1110959.1](https://dx.doi.org/10.7490/f1000research.1110959.1)
 
 Felix, Francisco (2015): Clinical treatment of malignant brain tumors in pediatric patients. figshare.
 [doi:10.6084/m9.figshare.2007588.v1](https://dx.doi.org/10.6084/m9.figshare.2007588.v1)
@@ -109,14 +108,14 @@ Felix, Francisco (2015): Clinical treatment of low-grade gliomas in pediatric pa
 
 ### Abstracts published in proceedings and deposited in repositories:
 
-Felix, Francisco (2016): Wilms tumor with cardiac extension - case report. [portuguese]. figshare.
+Felix, Francisco (2016): Wilms tumor with cardiac extension - case report. (Portuguese). figshare.
 [doi:10.6084/m9.figshare.2059830.v1](https://dx.doi.org/10.6084/m9.figshare.2059830.v1)
 
 ### Articles published in local academic journals and deposited in repositories:
 
-Bonavides de Castro, Patrícia; Santos Bruno, Débora; Rodrigues Filho, Filadelfo; Felix, Francisco; Roberto Lavor Porto, Paulo; Odorico de Moraes Filho, Manoel (2016): Evaluation of the Interference of Cyclosporin in the Development of Metastasis in a Low Malignant Murine Tumor [portuguese]. figshare. [doi:10.6084/m9.figshare.2059851.v1](https://dx.doi.org/10.6084/m9.figshare.2059851.v1)
+Bonavides de Castro, Patrícia; Santos Bruno, Débora; Rodrigues Filho, Filadelfo; Felix, Francisco; Roberto Lavor Porto, Paulo; Odorico de Moraes Filho, Manoel (2016): Evaluation of the Interference of Cyclosporin in the Development of Metastasis in a Low Malignant Murine Tumor (Portuguese). figshare. [doi:10.6084/m9.figshare.2059851.v1](https://dx.doi.org/10.6084/m9.figshare.2059851.v1)
 
-Felix, Francisco (2016): Treatment of hemangioma in pediatric patients. [portuguese]. figshare.
+Felix, Francisco (2016): Treatment of hemangioma in pediatric patients. (Portuguese). figshare.
 [10.6084/m9.figshare.2059821.v1](https://dx.doi.org/10.6084/m9.figshare.2059821.v1)
 
 ### Selfpublished replies to academic publications:
