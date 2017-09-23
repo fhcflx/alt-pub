@@ -40,18 +40,18 @@ Como a página está disponível num repositório do [GitHub](https://github.com
 
 ## Responsável:
 
-> Francisco Helder Cavalcante Felix,
-> Médico cancerologista pediátrico
-> atuando desde 2008 (ingresso por concurso público) no [Hospital Infantil Albert Sabin][hias], Fortaleza - CE, Brasil
+Francisco Helder Cavalcante Felix,
+Médico cancerologista pediátrico
+atuando desde 2008 (ingresso por concurso público) no [Hospital Infantil Albert Sabin](http://www.hias.ce.gov.br/#site), Fortaleza - CE, Brasil
 
-> Membro da Sociedade Brasileira de Pediatria - [SBP][sbp] desde 2002,
-> Membro da Sociedade Brasileira de Oncología Pediátrica - [SOBOPE][sobope] desde 2013,
-> Membro da Society for Neuroncology/ Society for Neuroncology Latin America - [SNO][sno] desde 2015
+Membro da Sociedade Brasileira de Pediatria - [SBP](http://www.sbp.com.br) desde 2002,
+Membro da Sociedade Brasileira de Oncología Pediátrica - [SOBOPE](http://sobope.org.br) desde 2013,
+Membro da Society for Neuroncology/ Society for Neuroncology Latin America - [SNO](https://www.snola.org/br) desde 2015
 
-> Título de especialista em pediatria em 2012,
-> Título de especialista em cancerologia pediátrica em 2014
+Título de especialista em pediatria em 2012,
+Título de especialista em cancerologia pediátrica em 2014
 
-> Contato: fhcflx@outlook.com - twitter: @fhcflx
+Contato: fhcflx@outlook.com - twitter: @fhcflx
 
 ## Licença:
 

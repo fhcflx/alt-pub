@@ -40,17 +40,17 @@ Because the project is available in a GitHub [repository](https://github.com/fhc
 
 ## Author:
 
-> Francisco Helder Cavalcante Felix,
-> Pediatric oncologist since 2008 at [Hospital Infantil Albert Sabin][hias], Fortaleza - CE, Brasil
+Francisco Helder Cavalcante Felix,
+Pediatric oncologist since 2008 at [Hospital Infantil Albert Sabin](http://www.hias.ce.gov.br/#site), Fortaleza - CE, Brasil
 
-> Member Brazilian Society of Pediatrics - [SBP][sbp] since 2002,
-> Member of Brazilian Society of Pediatric Oncology - [SOBOPE][sobope] since 2013,
-> Member of Society for Neuroncology/ Society for Neuroncology Latin America - [SNO][sno] since 2015
+Member Brazilian Society of Pediatrics - [SBP](http://www.sbp.com.br) since 2002,
+Member of Brazilian Society of Pediatric Oncology - [SOBOPE](http://sobope.org.br) since 2013,
+Member of Society for Neuroncology/ Society for Neuroncology Latin America - [SNO](https://www.snola.org) since 2015
 
-> Board certification on pediatrics in 2012,
-> Board Certification on pediatric oncology in 2014
+Board certification on pediatrics in 2012,
+Board Certification on pediatric oncology in 2014
 
-> Contact: fhcflx@outlook.com - twitter: @fhcflx
+Contact: fhcflx@outlook.com - twitter: @fhcflx
 
 ## License:
 
