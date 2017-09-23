@@ -94,6 +94,8 @@ Nevertheless the critics and the skeptical, it has became evident that we need a
 13. [Coady, SA & Wagner E. Sharing individual level data from observational studies and clinical trials: a perspective from NHLBI. Trials 2013 14:201 doi:10.1186/1745-6215-14-201][nhlbi]
 14. [Flather, M. Open access data sharing from clinical trials: is it really feasible? Eur Heart J - Qual Care Clin Outcomes, 2015 1(2):49–50, doi:10.1093/ehjqcco/qcv019][flather]
 
+Originally posted on: http://fhcflx.github.io/valkyrie/open-clinical-science/
+
 [clnrs]: https://en.m.wikipedia.org/wiki/Clinical_research
 [alltrls]: http://alltrials.net
 [fstr]: https://www.fosteropenscience.eu
