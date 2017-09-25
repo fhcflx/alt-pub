@@ -131,18 +131,5 @@ DISQUS_SITENAME = "publicacoes-academicas"
 DISQUS_NO_ID = True
 DISQUSURL = 'https://fhcflx.github.io/alt-pub'
 
-PLUGINS=['sitemap',]
-
-SITEMAP = {
-    'format': 'xml',
-    'priorities': {
-        'articles': 0.5,
-        'indexes': 0.5,
-        'pages': 0.5
-    },
-    'changefreqs': {
-        'articles': 'monthly',
-        'indexes': 'daily',
-        'pages': 'monthly'
-    }
-}
+DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sitemap')
+SITEMAP_SAVE_AS = 'sitemap.xml'
