@@ -6,12 +6,12 @@
     <priority>0.8</priority>
   </url>
 
-  <url>
+#    <url>
     <loc>./modalidades-alternativas-de-publicacao-academica.html</loc>
     <priority>0.8</priority>
   </url>
 
-
+#  
   <url>
     <loc>./pages/sobre.html</loc>
     <priority>1.0</priority>
