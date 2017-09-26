@@ -3,7 +3,7 @@ Date: 2016-06-30
 Category: Ciência Aberta
 Lang: pt
 Tags: pelican, gitlab, open access, green way
-Slug: alternative-types-of-academic-publication
+Slug: modalidades-alternativas-de-publicacao-academica
 
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)
 [![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.845747.svg)](https://doi.org/10.5281/zenodo.845747)
