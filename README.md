@@ -5,6 +5,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8398--0993-blue.svg)](http://orcid.org/0000-0002-8398-0993)
 [![License: CC0](https://img.shields.io/badge/License-CC%200-lightgrey.svg)](https://creativecommons.org/share-your-work/public-domain/cc0/)
 [![Build](https://img.shields.io/travis/fhcflx/alt-pub.svg)](https://travis-ci.org/fhcflx/alt-pub)
+[![english](if_gb_4627.png)](README-en.md)
 
 # Modalidades alternativas de publicação acadêmica.
 
@@ -15,7 +16,7 @@ Página de divulgação de trabalhos acadêmicos em formatos alternativos. Volta
 Esta página não é uma revista eletrônica, ou periódico, ou jornal, ou repositório de pré-publicações. Assim como os conceitos que quer defender, pretendo que esta criação seja uma _modalidade alternativa_ em si. A página começa da seguinte forma:
 
 - É um empreendimento de um homem só (por enquanto), porém aberta a contribuições
-- Não terá periodicidade
+- Não terá periodicidade (material "publicado" é identificado pelo versionamento)
 - Não terá exigência de qualidade , _exceto pela inequívoca base em evidências_.
   - Exemplo: não se verá nesta página textos sobre OVNIs ou técnicas _alternativas_ (o alternativo da página é o formato)
 - Não terá sistema de revisão por pares, mas será aberta ao comentário livre, _desde que seja seguido o [Código de Conduta][conduta]_.
@@ -31,7 +32,7 @@ O projeto tem uma página na internet gerada pelo [GitHub Pages][pages], a qual 
 
 ## Como contribuir:
 
-Como a página está disponível num repositório do [GitHub][gh], o processo de contribuição pode usar seus fluxos. Se você ainda não tem uma conta no [GitHub][gh] (gratuita), [inscreva-se][gh-i], abra uma questão ([_issue_][issue]) ou duplique ([_fork_][fork]) o repositório, acrescente seu conteúdo e peça uma emenda ([_pull request_][pull]) ao projeto. Além disso, existe o modo mais usual de contribuição: mande um e-mail, ou use qualquer das redes sociais que coloco à disposição. Por fim, comentários aos textos publicados são **muito** bem-vindos. Dê a sua opinião!
+Como a página está disponível num repositório do [GitHub][gh], o processo de contribuição pode usar seus fluxos. Se você ainda não tem uma conta no [GitHub][gh] (gratuita), [inscreva-se][gh-i], abra uma questão ([_issue_][issue]) ou duplique ([_fork_][fork]) o repositório, acrescente seu conteúdo e peça uma emenda ([_pull request_][pull]) ao projeto. Além disso, existe o modo mais usual de contribuição: mande um e-mail (em qualquer formato suportado pelo [pandoc][pandoc]), ou use qualquer das redes sociais que coloco à disposição. Por fim, comentários aos textos publicados são **muito** bem-vindos. Dê a sua opinião!
 
 ## Responsável:
 
@@ -75,3 +76,4 @@ Como a página está disponível num repositório do [GitHub][gh], o processo de
 [sobope]:https://www.sobope.org.br
 [sno]:https://soc-neuro-onc.org
 [snola]:https://snola.org
+[pandoc]: https://pandoc.org
