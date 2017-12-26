@@ -41,7 +41,7 @@ Como a página está disponível num repositório do [GitHub][gh], o processo de
 
 > Membro da Sociedade Brasileira de Pediatria - [SBP][sbp] desde 2002,
 > Membro da Sociedade Brasileira de Oncología Pediátrica - [SOBOPE][sobope] desde 2013,
-<!-- > Membro da Society for Neuroncology - [SNO][sno] desde 2015 -->
+> Membro da Society for Neuroncology/ Society for Neuroncology Latin America - [SNO][sno]/[SNOLA][snola] desde 2015
 
 > Título de especialista em pediatria em 2012,
 > Título de especialista em cancerologia pediátrica em 2014
@@ -70,3 +70,8 @@ Como a página está disponível num repositório do [GitHub][gh], o processo de
 [issue]:https://github.com/fhcflx/cpc-neuro/issues/new
 [fork]:https://help.github.com/articles/fork-a-repo/
 [pull]:https://github.com/fhcflx/cpc-neuro/compare
+[hias]:https://hias.ce.gov.br
+[sbp]:https://www.sbp.com.br
+[sobope]:https://www.sobope.org.br
+[sno]:https://soc-neuro-onc.org
+[snola]:https://snola.org
