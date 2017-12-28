@@ -1,4 +1,3 @@
-
 Title: Treatment of infantile hemangiomas
 Date: 2017-07-10 16:03:45 -0300
 Category: Postprint
