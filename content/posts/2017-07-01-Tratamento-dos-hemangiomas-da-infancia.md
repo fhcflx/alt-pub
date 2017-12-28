@@ -44,19 +44,33 @@ Em conclusão, lembramos que os hemangiomas infantis são comuns e a maioria das
 ## Referências:
 
 Adams DM, Wentzel MS. The Role of the Hematologist/Oncologist in the Care of Patients with Vascular Anomalies. Pediatr Clin  N Am 2008;55:339-355.
+
 Barlow CF, Priebe CJ, Mulliken JB, et al. Spastic diplegia as a complication of interferon alfa-2a treatment of hemangiomas of infancy. J Pediatr 1998;132:527–30.
+
 Boon LM, MacDonald DM, Muliken JB. Complications of systemic corticosteroid therapy for problematic hemangioma. Plast Reconstr Surg 1999;104:1616–23.
+
 Curado JH. Tratamento dos hemangiomas e linfangiomas. In: Mélega JM, Zanini AS, Psillakis JM, editores. Cirurgia Plástica: reparadora e estética. 2a. ed., São Paulo: MEDSI; 1992. p. 177.
+
 Ezekowitz RAB, Mulliken JB, Folkman J. Interferon alfa-2a therapy for life-threatening hemangiomas of infancy. N Engl J Med 1992;326:1456– 63 [errata: N Engl J Med 1994;330:300, N Engl J Med 1995;333: 595–6].
+
 Haggstrom AN, Drolet BA, Baselga E, Chamlin SL, Garzon MC, Horii KA, Lucky AW, Mancini AJ, Metry DW, Newell B, Nopper AJ, Frieden IJ. Prospective study of infantile hemangiomas: demographic, prenatal, and perinatal characteristics. J Pediatr. 2007;150(3):291-294.
+
 Haggstrom AN, Drolet BA, Baselga E, Chamlin SL, Garzon MC, Horii KA, Lucky AW, Mancini AJ, Metry DW, Newell B, Nopper AJ, Frieden IJ. Prospective study of infantile hemangiomas: clinical characteristics predicting complications and treatment. Pediatrics. 2006;118(3):882-887.
+
 Holmes WJ, Mishra A, Gorst C, Liew SH. Propranolol as first-line treatment for rapidly proliferating Infantile Haemangiomas. J Plast Reconstr Aesthet Surg. 2011 Apr;64(4):445-451
+
 Léauté-Labrèze C, Dumas de la Roque E, Hubiche T, et al. Propranolol for severe hemangiomas of infancy. N Engl J Med 2008;358:2649-2651.
+
 Marler JJ, Mulliken JB. Current management of hemangiomas and vascular malformations. Clin Plastic Surg 2005;32:99-116.
+
 Perez J, Pardo J, Gomez C. Vincristine—an effective treatment of corticoid-resistant life-threatening infantile hemangiomas. Acta Oncol 2002;41:197-199.
+
 Pope E, Krafchik BR, Macarthur C, Ho N, Baruchel S. Oral Versus High-Dose Pulse Corticosteroids for Problematic Infantile Hemangiomas: A Randomized, Controlled Trial. Pediatrics 2007;119:e1239-e1247.
+
 Sadan N, Wolach B. Treatment of hemangiomas with high doses of prednisone. J Pediatr 1996;128:947-948.
+
 Sans V, de la Roque ED, Berge J, Grenier N, Boralevi F, Mazereeuw-Hautier J, Lipsker D, Dupuis E, Ezzedine K, Vergnes P, Taïeb A, Léauté-Labrèze C. Propranolol for severe infatile hemangiomas: follow-up report. Pediatrics. 2009;124:e423-e431
+
 Siegfried EC, Keenan WJ, Al-Jureidini S. More on propranolol for hemangiomas of infancy. N Engl J Med 2008;359:2846, author reply 2846–2847
 
 > Publicado originalmente em Rev. Saúde Criança Adolesc., 3 (2): 39-45, jul./dez., 2011, http://bit.ly/alt-pub2zH
