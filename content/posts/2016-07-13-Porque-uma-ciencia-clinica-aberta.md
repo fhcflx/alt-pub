@@ -1,6 +1,6 @@
 Title: Porque uma ciência clínica aberta
 Date: 2016-07-13 16:03:45 -0300
-Category: Literatura Cinzenta, Pós-publicação
+Category: Literatura Cinzenta
 Lang: pt
 Tags: postagem em blog
 

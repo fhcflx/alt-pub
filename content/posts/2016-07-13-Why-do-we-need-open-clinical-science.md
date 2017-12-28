@@ -1,6 +1,6 @@
 Title: Why do we need open clinical science
 Date: 2016-07-13 16:03:45 -0300
-Category: Grey literature, Postprint
+Category: Grey literature
 Lang: en
 Tags: blog post
 
