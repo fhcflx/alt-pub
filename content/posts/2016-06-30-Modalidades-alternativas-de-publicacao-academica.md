@@ -1,8 +1,8 @@
 Title: Modalidades alternativas de publicação acadêmica
 Date: 2016-06-30
-Category: Livro branco
+Category: Guia da página
 Lang: pt
-Tags: pelican, gitlab, open access, green way
+Tags: livro branco
 Slug: modalidades-alternativas-de-publicacao-academica
 
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)
