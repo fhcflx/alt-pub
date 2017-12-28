@@ -1,8 +1,8 @@
 Title: Alternative types of academic publications
 Date: 2016-06-30
-Category: White paper
+Category: Guide to the site
 Lang: en
-Tags: pelican, gitlab, open access, green way
+Tags: white paper
 Slug: alternative-types-of-academic-publication
 
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)

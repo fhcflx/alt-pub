@@ -1,8 +1,8 @@
 Title: Why do we need open clinical science
 Date: 2016-07-13 16:03:45 -0300
-Category: Blog post
+Category: Grey literature, Postprint
 Lang: en
-Tags: open clinical science, open notebook science
+Tags: blog post
 
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases?colorB=dd4814)
 [![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1133188.svg)](https://doi.org/10.5281/zenodo.1133188)
