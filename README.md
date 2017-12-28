@@ -15,11 +15,12 @@ Projeto de compartilhamento de trabalhos acadêmicos em formatos alternativos. V
 
 Esta página não é uma revista eletrônica, ou periódico, ou jornal, ou repositório de pré-publicações. Assim como os conceitos que quer defender, pretendo que esta criação seja uma _modalidade alternativa_ em si. Características iniciais do projeto:
 
-- É um empreendimento de um homem só (por enquanto), porém aberta a contribuições. Seu objetivo é tornar-se **descentralizada e gerenciada pela comunidade.**
+- É um empreendimento de um homem só (por enquanto), porém aberto a contribuições. Seu objetivo é tornar-se **descentralizado e gerenciado pela comunidade**.
+
 - Não terá periodicidade, o material compartilhado é **identificado pelo versionamento**.
 - O conteúdo não será editorado, mas estará sujeito à curadoria para assegurar **uma exigência mínima de qualidade e inequívoca base em evidências**.
   - Exemplo: não se verá nesta página textos sobre OVNIs ou técnicas _alternativas_ (o alternativo da página é o formato)
-- Não terá sistema de revisão por pares, mas será **aberta ao comentário livre, desde que seja seguido o [Código de Conduta][conduta]**.
+- Não terá sistema de revisão por pares, mas será **aberto ao comentário livre, desde que seja seguido o [Código de Conduta][conduta]**.
 - Nunca haverá cobrança de valores monetários (porém aceitará doações).
 
 ## Como usar:
