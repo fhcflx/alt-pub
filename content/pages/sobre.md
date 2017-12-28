@@ -15,15 +15,15 @@ Slug: sobre
 
 ## O que é:
 
-Página de divulgação de trabalhos acadêmicos em formatos alternativos. Voltada para a difusão da idéia de [publicação aberta](https://pt.wikiversity.org/wiki/Manual_para_publicação_aberta_de_pesquisas), ou _publicação de acesso aberto (open access)_, uma vertente da [ciência aberta](https://pt.wikipedia.org/wiki/Ciência_aberta), movimento multidisciplinar que busca modificar o paradigma de produção de conhecimento que o centraliza e impede sua disseminação. Historicamente, a tradição ocidental enraiza-se firmemente na livre disseminação de conhecimento entre pares. No entanto, a concentração de investimento em pesquisa, canais de publicação e capacidade criativa em torno de instituições de produção e publicação de conhecimento _fechadas_ interrompeu em larga escala essa tradição. Movimentos díspares inspirados nos conceitos de [software livre](https://pt.wikipedia.org/wiki/Software_livre) e [código aberto](https://pt.wikipedia.org/wiki/Código_aberto) (_open source_) juntaram-se no conceito ainda em evolução da **ciência aberta**.
+Projeto de compartilhamento de trabalhos acadêmicos em formatos alternativos. Voltada para a difusão da idéia de [publicação aberta](https://pt.wikiversity.org/wiki/Manual_para_publicação_aberta_de_pesquisas), ou _publicação de acesso aberto (open access)_, uma vertente da [ciência aberta](https://pt.wikipedia.org/wiki/Ciência_aberta), movimento multidisciplinar que busca modificar o paradigma de produção de conhecimento que o centraliza e impede sua disseminação. Historicamente, a tradição ocidental enraiza-se firmemente na livre disseminação de conhecimento entre pares. No entanto, a concentração de investimento em pesquisa, canais de publicação e capacidade criativa em torno de instituições de produção e publicação de conhecimento _fechadas_ interrompeu em larga escala essa tradição. Movimentos díspares inspirados nos conceitos de [software livre](https://pt.wikipedia.org/wiki/Software_livre) e [código aberto](https://pt.wikipedia.org/wiki/Código_aberto) (_open source_) juntaram-se no conceito ainda em evolução da **ciência aberta**.
 
-Esta página não é uma revista eletrônica, ou periódico, ou jornal, ou repositório de pré-publicações. Assim como os conceitos que quer defender, pretendo que esta criação seja uma _modalidade alternativa_ em si. A página começa da seguinte forma:
+Esta página não é uma revista eletrônica, ou periódico, ou jornal, ou repositório de pré-publicações. Assim como os conceitos que quer defender, pretendo que esta criação seja uma _modalidade alternativa_ em si. Características iniciais do projeto:
 
-- É um empreendimento de um homem só (por enquanto), porém aberta a contribuições
-- Não terá periodicidade
-- Não terá exigência de qualidade , _exceto pela inequívoca base em evidências_.
+- É um empreendimento de um homem só (por enquanto), porém aberto a contribuições. Seu objetivo é tornar-se **descentralizado e gerenciado pela comunidade**.
+- Não terá periodicidade, o material compartihlado é **identificado pelo versionamento**.
+- O conteúdo não será editorado, mas estará sujeito à curadoria para assegurar **uma exigência mínima de qualidade e inequívoca base em evidências**.
   - Exemplo: não se verá nesta página textos sobre OVNIs ou técnicas _alternativas_ (o alternativo da página é o formato)
-- Não terá sistema de revisão por pares, mas será aberta ao comentário livre, _desde que seja seguido o [Código de Conduta](https://help.github.com/articles/github-community-guidelines/)_.
+- Não terá sistema de revisão por pares, mas será **aberto ao comentário livre, desde que seja seguido o [Código de Conduta](https://help.github.com/articles/github-community-guidelines/)**.
 - Nunca haverá cobrança de valores monetários (porém aceitará doações).
 
 ## Como usar:
@@ -36,20 +36,15 @@ O projeto tem uma página na internet gerada pelo [GitHub Pages](https://pages.g
 
 ## Como contribuir:
 
-Como a página está disponível num repositório do [GitHub](https://github.com/fhcflx/alt-pub), o processo de contribuição pode usar seus fluxos. Se você ainda não tem uma conta no [GitHub](https://github.com) (gratuita), [inscreva-se](https://github.com/join?source=header-home), abra uma questão ([_issue_](https://github.com/fhcflx/cpc-neuro/issues/new)) ou duplique ([_fork_](https://help.github.com/articles/fork-a-repo/)) o repositório, acrescente seu conteúdo e peça uma emenda ([_pull request_](https://github.com/fhcflx/cpc-neuro/compare)) ao projeto. Além disso, existe o modo mais usual de contribuição: mande um e-mail, ou use qualquer das redes sociais que coloco à disposição. Por fim, comentários aos textos publicados são **muito** bem-vindos. Dê a sua opinião!
+Como a página está disponível num repositório do [GitHub](https://github.com/fhcflx/alt-pub), o processo de contribuição pode usar seus fluxos. Se você ainda não tem uma conta no [GitHub](https://github.com) (gratuita), [inscreva-se](https://github.com/join?source=header-home), abra uma questão ([_issue_](https://github.com/fhcflx/cpc-neuro/issues/new)) ou duplique ([_fork_](https://help.github.com/articles/fork-a-repo/)) o repositório, acrescente seu conteúdo e peça uma emenda ([_pull request_](https://github.com/fhcflx/cpc-neuro/compare)) ao projeto. Além disso, existe o modo mais usual de contribuição: mande um e-mail, ou use qualquer das redes sociais que coloco à disposição. Por fim, comentários aos textos publicados são **muito** bem-vindos. Cheque o _Guia completo de contribuição!_ Dê a sua opinião!
 
 ## Responsável:
 
 Francisco Helder Cavalcante Felix,
 Médico cancerologista pediátrico
-atuando desde 2008 (ingresso por concurso público) no [Hospital Infantil Albert Sabin](http://www.hias.ce.gov.br/#site), Fortaleza - CE, Brasil
+atuando desde 2008 no [Hospital Infantil Albert Sabin](http://www.hias.ce.gov.br/#site), Fortaleza - CE, Brasil
 
-Membro da Sociedade Brasileira de Pediatria - [SBP](http://www.sbp.com.br) desde 2002,
-Membro da Sociedade Brasileira de Oncología Pediátrica - [SOBOPE](http://sobope.org.br) desde 2013,
 Membro da Society for Neuroncology/ Society for Neuroncology Latin America - [SNO](https://www.snola.org/br) desde 2015
-
-Título de especialista em pediatria em 2012,
-Título de especialista em cancerologia pediátrica em 2014
 
 Contato: fhcflx@outlook.com - twitter: @fhcflx
 
