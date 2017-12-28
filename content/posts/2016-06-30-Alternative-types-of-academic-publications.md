@@ -10,6 +10,8 @@ Slug: alternative-types-of-academic-publication
 [![article doi](https://img.shields.io/badge/ARTICLE--DOI-10.6084/m9.figshare.5435977-dd4814.svg)](http://dx.doi.org/10.6084/m9.figshare.5435977)
 [![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2016_alt-pub-en.pdf?raw=True)
 
+A whitepaper describing alternative modalities for publication of academic material as diverse as commentaries, preprints, raw research data, conference posters, and many more. A lot of examples from my own bibliography are depicted, along with their citation data, showing that this kind of alternative academic autopublishing can be fully trackable and citable.
+
 ## Introduction
 
 Currently, the paradigm of scientific publication involves primarily the model of [peer-reviewed](https://en.wikipedia.org/wiki/Peer_review) publications. Dominated by a few companies and institutions, this model is based on scientific journals that publish in print, on the Internet, or both, works that go through a laborious selection of quality. Initially, an editorial board evaluates the overall quality of submissions, their suitability to the journal editorial line, its apparent scientific soundness, the general design and interest to the audience of the journal. After this highly subjective filter, the unpublished manuscripts are still sent to technical reviewers, usually people with deep knowledge about the area of the submission. At least two of these reviewers are commissioned by the editors. If both accept the task and approve the manuscript, it is submitted for publication.

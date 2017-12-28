@@ -9,6 +9,8 @@ Tags: postagem em blog
 [![Article DOI](https://img.shields.io/badge/ARTICLE--DOI-10.6084/m9.figshare.5435968-dd4814.svg)](http://dx.doi.org/10.6084/m9.figshare.5435968)
 [![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2016-07-13-Why-do-we-need-open-clinical-science.pdf?raw=True)
 
+Esta postagem de um blog que mostra um modelo de pesquisa clínica aberta apresenta os conceitos principais acerca do movimento da Ciência Aberta e suas implicações na pesquisa clínica. Um esboço do que está começando a se configurar como uma _Pesquisa Clínica Aberta_ é delineado, chamando a atenção para suas potenciais vantagens para a ciência médica e para a comunidade de uma forma geral.
+
 ## Mais transparência na pesquisa clínica
 
 Os motivos pelos quais [pesquisas clínicas][clnrs] são realizadas deveriam ser óbvios. No entanto, é preciso abordá-los e tentar resumi-los em alguns princípios de trabalho, se nos propusermos a uma análise aprofundada. Provavelmente, é um consenso que a pesquisa clínica visa desenvolver novos tratamentos para doenças. Dito isto, deve ser um corolário de que a pesquisa clínica busca o benefício do público. Além disso, é primordial na pesquisa clínica a proteção do sujeito experimental.

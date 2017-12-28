@@ -9,6 +9,8 @@ Tags: blog post
 [![Article DOI](https://img.shields.io/badge/ARTICLE--DOI-10.6084/m9.figshare.5435968-dd4814.svg)](http://dx.doi.org/10.6084/m9.figshare.5435968)
 [![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2016-07-13-Why-do-we-need-open-clinical-science.pdf?raw=True)
 
+This blog post that shows an open clinical research model presents the main concepts about the Open Science movement and its implications in clinical research. An outline of what is beginning to be set up as an Open Clinical Research is depicted, drawing attention to its potential benefits to medical science and the community in general.
+
 ## More transparency in clinical research
 
 The reasons why [clinical research][clnrs] is done should be obvious. However, one must address them and try to summarize them into a few working principles if an in depth analysis is to be carried out. It is probably a consensus that clinical research aims to develop new treatments for ailments. That said, it should be a corollary that clinical research seeks the benefit of the public. Additionally, it is paramount to clinical research the protection of the experimental subject.
