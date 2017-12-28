@@ -1,11 +1,11 @@
 Title: Porque uma ciência clínica aberta
 Date: 2016-07-13 16:03:45 -0300
-Category: Ciência aberta
+Category: Postagem em blog
 Lang: pt
 Tags: open clinical science, open notebook science
 
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases?colorB=dd4814)
-[![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.845747.svg)](https://doi.org/10.5281/zenodo.845747)
+[![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1133188.svg)](https://doi.org/10.5281/zenodo.1133188)
 [![Article DOI](https://img.shields.io/badge/ARTICLE--DOI-10.6084/m9.figshare.5435968-dd4814.svg)](http://dx.doi.org/10.6084/m9.figshare.5435968)
 [![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2016-07-13-Why-do-we-need-open-clinical-science.pdf?raw=True)
 
@@ -77,7 +77,7 @@ Não obstante os críticos e céticos, fica bem evidente que precisamos de uma m
 - [Organization for Economic Cooperation and Development, OECD][oecd]
 - [Harper, Matthew. The most powerful doctor you never heard of. Forbes, 09/09/2010][hk]
 
-## References:
+## Referências:
 
 1. [Knoth, Petr; Pontika, Nancy (2015): Open Science Taxonomy. figshare.][txnmy]
 2. [OECD (2015), “Making Open Science a Reality”, OECD Science, Technology and Industry Policy Papers, No. 25, OECD Publishing, Paris][oecd15]

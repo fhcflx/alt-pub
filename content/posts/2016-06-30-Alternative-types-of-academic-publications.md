@@ -1,12 +1,12 @@
 Title: Alternative types of academic publications
 Date: 2016-06-30
-Category: Open Science
+Category: White paper
 Lang: en
 Tags: pelican, gitlab, open access, green way
 Slug: alternative-types-of-academic-publication
 
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases)
-[![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.845747.svg)](https://doi.org/10.5281/zenodo.845747)
+[![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1133188.svg)](https://doi.org/10.5281/zenodo.1133188)
 [![article doi](https://img.shields.io/badge/ARTICLE--DOI-10.6084/m9.figshare.5435977-dd4814.svg)](http://dx.doi.org/10.6084/m9.figshare.5435977)
 [![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2016_alt-pub-en.pdf?raw=True)
 
