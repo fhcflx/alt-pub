@@ -5,7 +5,7 @@ Lang: en
 Tags: slides
 
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases?colorB=dd4814)
-[![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1133188.svg)](https://doi.org/10.5281/zenodo.1133188)
+[![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.594582.svg)](https://doi.org/10.5281/zenodo.594582)
 [![Article DOI](https://img.shields.io/badge/ARTICLE--DOI-10.7490/f1000research.1110958.1-dd4814.svg)](https://doi.org/10.7490/f1000research.1110958.1)
 [![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2017-07-28-hemangioma-pt.pdf?raw=True)
 
@@ -26,4 +26,3 @@ Note: this lecture was presented in 2012. Since then, other high quality level t
 I have been treating pediatric patients with problematic infantile hemangiomas with off-label propranolol since 2009. I published a small report with observational retrospective evaluation of results in Treatment of children and adolescents with hemangioma using propranolol: preliminary results from a retrospective study. JC Albuquerque, RA Magalhaes, JA Felix, MVR Bastos (…) - Sao Paulo Medical Journal, 2014 – doi:10.1590/1516-3180.2014.1321575  (this report was referred in this lecture as 'submitted to publication' and awaiting approval).
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/xCfuvwFzyugOAa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FranciscoFelix6/concan-2012-aula" title="Abordagem atual dos hemangiomas" target="_blank">Abordagem atual dos hemangiomas</a> </strong> de <strong><a href="//www.slideshare.net/FranciscoFelix6" target="_blank">Francisco H C Felix</a></strong> </div>
-

@@ -4,7 +4,7 @@ Category: Grey literature
 Lang: en
 Tags: blog post
 
-[![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases?colorB=dd4814)
+[![GitHub release](https://img.shields.io/badge/release-v1.0.4-blue.svg)](https://github.com/fhcflx/alt-pub/releases?colorB=dd4814)
 [![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1133188.svg)](https://doi.org/10.5281/zenodo.1133188)
 [![Article DOI](https://img.shields.io/badge/ARTICLE--DOI-10.6084/m9.figshare.5435968-dd4814.svg)](http://dx.doi.org/10.6084/m9.figshare.5435968)
 [![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2016-07-13-Why-do-we-need-open-clinical-science.pdf?raw=True)
