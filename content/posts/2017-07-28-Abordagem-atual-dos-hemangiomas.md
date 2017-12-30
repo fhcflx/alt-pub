@@ -7,7 +7,7 @@ Tags: diapositivos
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases?colorB=dd4814)
 [![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.594582.svg)](https://doi.org/10.5281/zenodo.594582)
 [![Article DOI](https://img.shields.io/badge/ARTICLE--DOI-10.7490/f1000research.1110958.1-dd4814.svg)](https://doi.org/10.7490/f1000research.1110958.1)
-[![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://github.com/fhcflx/alt-pub/blob/master/content/docs/Felix_2017-07-28-hemangioma-pt.pdf?raw=True)
+[![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)](https://f1000research.com/slides/4-1231#)
 
 Esta palestra foi uma apresentação convidada no XIX Congresso Brasileiro de Cancerologia (CONCAN), em 2012.
 
