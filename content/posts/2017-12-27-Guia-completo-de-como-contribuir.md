@@ -1,15 +1,15 @@
 Title: Guia completo de como contribuir com Publicações Acadêmicas
 Date: 2017-12-27 16:03:45 -0300
-Category: Literatura cinzenta
+Category: Guia da página
 Lang: pt
 Tags: guia
 
 [![GitHub release](https://img.shields.io/github/release/fhcflx/alt-pub.svg)](https://github.com/fhcflx/alt-pub/releases?colorB=dd4814)
-[![Project DOI](https://[figshare][figshare].org/badge/DOI/10.5281/zenodo.845747.svg)](https://doi.org/10.5281/zenodo.845747)
+[![Project DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.845747.svg)](https://doi.org/10.5281/zenodo.845747)
 [![Article DOI](https://img.shields.io/badge/ARTICLE--DOI-10.6084/m9..5435968-dd4814.svg)](http://dx.doi.org/10.6084/m9.figshare.5435968)
 [![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)]()
 
-Este guia ensina como contribuir de maneira ética e livre com a página Publicações Acadêmicas, e participar ativamente do movimento da [Ciência Aberta][ca] [1].
+Este guia ensina como contribuir de maneira ética e livre com a página Publicações Acadêmicas, e participar ativamente do movimento da [Ciência Aberta][ca] [1]. O projeto é livre para ser copiado, modificado e ampliado. Comentários e contribuições são muito bem-vindos!
 
 ## Por quê contribuir com Publicações Acadêmicas?
 
