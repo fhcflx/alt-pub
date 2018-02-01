@@ -1,4 +1,4 @@
-Title: Complete guide to contributing with Academic Publications
+Title: Complete guide to contributing to Academic Publications
 Date: 2017-12-27 16:03:45 -0300
 Category: Guide to the site
 Lang: en
@@ -9,7 +9,7 @@ Tags: guide
 [![Article DOI](https://img.shields.io/badge/ARTICLE--DOI-10.6084/m9..5435968-dd4814.svg)](http://dx.doi.org/10.6084/m9.figshare.5435968)
 [![pdf](https://img.shields.io/badge/pdf-download-dd4814.svg)]()
 
-This guide will walk you through the steps to contribute in an ethical and free manner with the Academic Publications page, and actively participate in the [Open Science][ca]  movement [1]. Any issues may be addressed to the project's author e-mail ([fhcflx@outlook.com][mail]) or to his Twitter [@fhcflx][twit]. The project is free to be copied, modified and hacked. Comments and contributions are most welcome! Science must be made by all people and freely benefit all people!
+This guide will walk you through the steps to contribute in an ethical and free manner to the Academic Publications page, and actively participate in the [Open Science][ca]  movement [1]. Any issues may be addressed to the project's author e-mail ([fhcflx@outlook.com][mail]) or to his Twitter [@fhcflx][twit]. The project is free to be copied, modified and hacked. Comments and contributions are most welcome! Science must be made by all people and freely benefit all people!
 
 ## Why Contribute to Academic Publications?
 
