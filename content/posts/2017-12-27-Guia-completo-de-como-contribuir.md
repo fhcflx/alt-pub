@@ -32,14 +32,12 @@ Este projeto não é um jornal científico, não tem registro em ISSN, nem é in
 Dito isto, esta é uma lista não exaustiva e não completa de formatos que podem ser submetidos:
 
 1. **Pré-publicação:** ou _[preprint][preprint]_, material acadêmico redigido com o objetivo de publicação em um periódico tradicional ou outro canal de publicação, depositado **antes** da submissão e revisão por pares. Mais recentemente, uma quantidade de _[preprints][preprint]_ nunca chega a ser publicada em canais revisados por pares, mantendo seu estado de _pré-publicação_ e sendo mesmo citados como _[preprints][preprint]_. Uma pré-condição para depositar _[preprints][preprint]_ é verificar se o veículo onde se deseja a publicação final permite esta prática.
-
 Os mesmos formatos que podem ser publicados num canal convencional podem ser depositados como pré-publicações:
   - **artigos**
   - **revisões**
   - **comentários** (cartas) e outras formas de _front matter_
   - **comunicações breves**, etc
 2. **Pós-publicação:** ou _[postprint][post]_, prática menos comum até o surgimento de canais como o Researchgate, [figshare][figshare], [Zenodo][zenodo] e outros. Trata-se do depósito de material **após** a submissão, revisão por pares e publicação em canais tradicionais. Um pré-requisito para essa modalidade é a posse dos direitos autoriais sobre a obra pelos autores. Alguns jornais tradicionais permitem o depósito em repositórios institucionais.
-
 Assim como quanto às pré-publicações, os mesmos formatos podem ser depositados como pós-publicações.
 3. **Auto-arquivamento:** ou _[self-archiving][self]_, uma distinção arbitrária em relação às modalidades anteriormente descritas. Pode-se dizer que tanto as pré como as pós-publicações depositadas pelo autor são formas de _auto-arquivamento_. Dessa forma, torna-se menos relevante distinguir esta modalidade. Poder-se-ia dizer, mais especificamente, que textos criados _exclusivamente para serem auto-arquivados_ ou cujo autor não visa mais a publicação (por exemplo, material submetido mas não aceito em algum canal de publicação) poderiam entrar nesta definição. No entanto, uma definição menos estrita de _preprint_ também engloba estas hipóteses. O depósito institucional de pós-publicações também pode ser classificado assim.
 4. **Material de pesquisa:** desenhos experimentais, projetos de pesquisa, resultados brutos, plano de análise estatística, análises estatísticas preliminares, notas de cadernos de pesquisa, e quaisquer outros materiais, textos, figuras, coleções de dados que possam ser depositados de forma **livre e acessível**, sob uma licença compatível com [Ciência Aberta][ca] (na maioria dos casos, [Creative Commons Atribuição 4.0][ccby]). Qualquer material postado necessitará automaticamente disponível publicamente. Ciente disto, é uma ótima maneira de mostrar para a comunidade o progresso de uma linha de pesquisa.

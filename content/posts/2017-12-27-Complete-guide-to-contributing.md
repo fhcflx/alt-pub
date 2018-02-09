@@ -31,15 +31,12 @@ This project is not a scientific journal, has no ISSN number registration, nor i
 That being said, this is a non-exhaustive list of formats that can be submitted:
 
 1. **Preprint:** academic material written for the purpose of publication in a traditional journal or other publication channel, deposited **before** submission and peer review . More recently, a number of preprints never get published in peer-reviewed channels, retaining their pre-publishing status, and even being quoted as preprints. A precondition for depositing _[preprints][preprint]_ is to check if the vehicle where the final publication is desired allows this practice.
-
 The same formats that can be published in a conventional channel can be deposited as preprints:
-  - **articles**
-  - **reviews**
-  - **commentaries** (letters) and other forms of _front matter_
-  - **brief communications**, etc.
-
+  - **articles**
+  - **reviews**
+  - **commentaries** (letters) and other forms of _front matter_
+  - **brief communications**, etc.
 2. **Postprint:** less common practice until the emergence of channels such as Researchgate, [figshare][figshare], [Zenodo][zenodo] and others. It is the deposit of material **after** submission, peer review and publication in traditional channels. A prerequisite for this modality is the ownership of authorship rights over the work by the authors. Some traditional journals allow for the deposit in institutional repositories.
-
 As with preprints, the same formats can be deposited as [postprints][postprint].
 3. **Self-archiving:** an arbitrary distinction in relation to the modalities described above. It can be said that both the pre and postprints deposited by the author are forms of self-archiving. In this way, it becomes less relevant to distinguish this modality. It could be said, more specifically, that texts created exclusively for self-archiving - or no longer intended for publication (eg material submitted but not accepted in some publication channel) could fall under this definition. However, a less strict definition of _preprint_ also encompasses these assumptions. Institutional depositing of _postprint_ material can also be refered this way.
 4. **Research material:** experimental designs, research projects, raw data, statistical analysis, research notebooks, and any other materials, texts, figures, collections of data that may be deposited in a **free and accessible** form, under a license compatible with [Open Science][os] (in most cases, [Creative Commons Attribution 4.0][ccby]). Any posted material will automatically be publicly available. That said, it is a great way to show the community the progress of a research line.
