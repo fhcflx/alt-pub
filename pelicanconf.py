@@ -9,13 +9,16 @@ SITEURL = 'http://fhcflx.github.io/alt-pub'
 PATH = 'content'
 OUTPUT_PATH = 'public'
 STATIC_PATHS = [
-    'extras',
+    'content/extra',
     'images',
     'pdf'
     ]
 EXTRA_PATH_METADATA = {
     # 'extra/robots.txt': {'path': 'robots.txt'},
-    'extras/favicon.ico': {'path': 'favicon.ico'},
+    'content/extra/android-chrome-192x192.png': {'path': 'android-chrome-192x192.png'},
+    'content/extra/android-chrome-256x256.png': {'path': 'android-chrome-256x256.png'},
+    'content/extra/apple-touch-icon.png': {'path': 'apple-touch-icon.png'},
+    'content/extra/favicon.ico': {'path': 'favicon.ico'},
     # 'extra/htaccess': {'path': '.htaccess'}
     }
 
