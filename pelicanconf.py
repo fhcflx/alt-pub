@@ -89,8 +89,8 @@ I18N_SUBSITES = {
 # SUBCATEGORY_URL = 'category/{savepath}/'
 # ARTICLE_URL = '{suburl}/{slug}.html'
 # ARTICLE_SAVE_AS = '{subpath}/{slug}.html'
-# CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-# SUBCATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+# CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+# SUBCATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 PLUGINS += ['render_math']
 MATH_JAX = {'align': 'left',
