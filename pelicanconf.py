@@ -136,5 +136,3 @@ DISQUSURL = 'https://fhcflx.github.io/alt-pub'
 
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sitemap')
 SITEMAP_SAVE_AS = 'sitemap.xml'
-FAVICON = 'favicon.ico'
-TOUCHICON = 'apple-touch-icon.png'
