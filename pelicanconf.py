@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Francisco H C Felix'
+AUTHOR = u'Francisco Felix'
 SITENAME = u'Academic publications'
 SITEURL = 'http://fhcflx.github.io/alt-pub'
 
@@ -51,7 +51,7 @@ SOCIAL = (
 #         ('You can add links in your config file', '#'),
 #         ('Another social link', '#'),
           ('linkedin', 'https://www.linkedin.com/in/francisco-h-c-felix-84ba8226?trk=hp-identity-name'),
-          ('twitter', 'http://twitter.com/fhcflx'),
+          ('twitter', 'http://twitter.com/neuronc_lab'),
           ('github', 'http://github.com/fhcflx'),
 #         ('gitlab', 'http://gitlab.com/fhcflx', 'Gitlab'),
 #         ('bitbucket', 'http://bitbucket.org/fhcflx'),
